@@ -1,0 +1,754 @@
+post_id,day,created_at,name,tagline,prod_state,comments_count,topics_length,user.id,votes_count
+82535,11/21/16,2016-11-21T00:09:00.000-08:00,WakingApp Realities,Easy DIY AR / VR content creation platform,default,12,10,491366,135
+82893,11/21/16,2016-11-21T06:30:23.580-08:00,Contributions for GitHub,Show your GitHub contributions graph on your iOS Devices,default,0,3,183802,57
+82829,11/20/16,2016-11-20T02:19:41.448-08:00,WiseIntro,Beautiful professional webpage with a single click,default,27,8,1880,301
+82828,11/20/16,2016-11-20T05:44:01.155-08:00,Hack Club,Free and open source high school coding clubs _Ÿ‘__Ÿ’¥,default,5,4,213986,201
+82825,11/20/16,2016-11-20T00:44:30.286-08:00,Bot Stash,A  curated directory of chat bot resources & tools.,default,13,7,79,313
+82810,11/20/16,2016-11-20T00:03:00.000-08:00,BigTube,Makes watching programming tutorials more fun,default,2,2,455558,162
+82315,11/19/16,2016-11-19T00:04:00.000-08:00,FreeStack,Free tools & resources for designers,default,21,7,29622,763
+82718,11/19/16,2016-11-19T00:01:00.000-08:00,Browser Frame,Easily wrap screenshots in different browser frames.,default,14,4,678071,297
+82725,11/19/16,2016-11-19T00:01:00.000-08:00,Cat As A Service (CATAAS),A REST API to spread peace & love (or not) thanks to cats _Ÿ˜¸,default,6,5,270706,165
+82717,11/18/16,2016-11-18T03:15:09.504-08:00,iA Writer 4,"Embed images, tables and text as blocks of content in text",default,16,6,54069,519
+82706,11/18/16,2016-11-18T02:56:26.401-08:00,Deekit Premium,Collaborative online whiteboard for larger remote teams,default,61,7,220989,253
+82577,11/17/16,2016-11-17T00:06:38.156-08:00,Color Farm,Daily color inspiration from the popular Dribbble shots,default,12,4,5878,446
+82557,11/17/16,2016-11-17T00:29:00.000-08:00,Skyliner,The launch platform for your best work,default,12,2,13581,188
+82579,11/17/16,2016-11-17T00:15:28.945-08:00,MobileStack,"Curated Resources, Tool Finder and Free Stack for Mobile App",default,19,9,79,133
+82601,11/17/16,2016-11-17T08:16:50.551-08:00,OmniSearch by FullStory,Search and analytics for your customer experience _Ÿ•µ,default,11,4,44839,151
+82480,11/16/16,2016-11-16T05:40:53.287-08:00,Init.ai,Build powerful and intelligent conversational apps _Ÿ’Å_Ÿ_–,default,43,4,1,782
+82370,11/16/16,2016-11-16T00:01:00.000-08:00,Drop,Beautiful color picker with Touch Bar support,default,38,6,28756,435
+82460,11/16/16,2016-11-16T01:13:32.235-08:00,Lookback Live,Real-time user research on mobile and desktop _Ÿ•µ âœçï¸è,default,25,6,591,407
+82503,11/16/16,2016-11-16T08:41:35.442-08:00,Visual Studio Mac,"A mobile-first, cloud-first IDE. Made for the Mac",default,9,3,10713,277
+82063,11/16/16,2016-11-16T09:01:00.000-08:00,Android Secrets Leak Scanner,Detect secret & credential leaks in code of any Android app.,default,1,5,607521,29
+82285,11/15/16,2016-11-15T00:23:56.111-08:00,Inspect by InVision,A magical new design to development workflow from InVision,default,49,8,6206,1042
+82275,11/15/16,2016-11-15T00:02:08.569-08:00,Cardlife SaaS Directory,Search and discover the best SaaS apps,default,37,8,7293,404
+82297,11/15/16,2016-11-15T01:18:08.428-08:00,Search Grader by Algolia,A free tool to evaluate your product's search experience,default,7,6,4081,252
+82357,11/15/16,2016-11-15T07:22:36.391-08:00,Instant 2FA,Add two-factor auth to any site in minutes,default,33,4,364,224
+82401,11/15/16,2016-11-15T10:30:19.395-08:00,RebelMail API,The world's first API for interactive email.,default,6,5,1998,52
+82295,11/15/16,2016-11-15T01:08:22.934-08:00,AppLozic,Real time chat & messaging SDK for your mobile and web apps,default,22,8,79,174
+82282,11/15/16,2016-11-15T06:28:18.124-08:00,App Samurai,Self-service app marketing tool for startups,default,1,9,533201,52
+82150,11/14/16,2016-11-14T00:05:00.000-08:00,Lumber,The admin microservice generator,default,50,6,6261,753
+82141,11/14/16,2016-11-14T00:01:00.000-08:00,Gitmoji,An emoji guide for your GitHub commit messages,default,3,5,946,182
+82062,11/13/16,2016-11-13T00:01:00.000-08:00,Startup Collections,"Resources & tools for entrepreneurs, designers & developers",default,30,4,309801,1083
+82051,11/13/16,2016-11-13T00:10:00.000-08:00,Thinbox,Collect email sending data across your email services,default,0,3,36260,30
+81988,11/12/16,2016-11-12T00:03:00.000-08:00,Vocalizer.io,An audio-based web accessibility tool for pronouncing names.,default,9,4,364569,141
+81949,11/11/16,2016-11-11T00:03:00.000-08:00,Cycles,Visual feedback and approvals for web development,default,31,4,91640,329
+81980,11/11/16,2016-11-11T00:01:00.000-08:00,deck.gl,Large-scale WebGL-powered data visualization,default,8,5,18280,221
+81910,11/10/16,2016-11-10T05:46:47.154-08:00,Winds,Open source & beautiful RSS reader,default,34,5,498,549
+81891,11/10/16,2016-11-10T05:11:21.694-08:00,iDisplay,Use your iOS/Android device as an extra display,default,32,6,29876,281
+81893,11/10/16,2016-11-10T05:02:32.743-08:00,Phoenix Startup v2,Great tool for busy agencies and web designers,default,34,9,329342,355
+81902,11/10/16,2016-11-10T09:44:05.111-08:00,WhitestormJS,_Ÿ_€  3D Framework for developing web apps with physics.,default,5,4,262215,116
+81898,11/10/16,2016-11-10T03:47:31.933-08:00,Perf,Simple app monitoring with meaningful alerts,default,8,3,642,102
+81939,11/10/16,2016-11-10T10:17:42.101-08:00,MessageBird IFTTT Channel,"Trigger SMS, voice and chat actions",default,2,5,33801,77
+81904,11/10/16,2016-11-10T07:11:56.437-08:00,Stolos.io,Remote environments that work with developers' local tools.,default,6,3,117843,77
+81821,11/9/16,2016-11-09T06:45:06.073-08:00,DevFreeBooks,A huge collection of free books for developers,default,26,4,72708,711
+81802,11/9/16,2016-11-09T01:50:17.252-08:00,SendX,Email marketing growth platform,default,11,8,187,295
+81825,11/9/16,2016-11-09T07:33:57.909-08:00,Project Intu,"Add Watson to robots, spaces, objects, and avatars",default,1,4,18280,75
+81692,11/8/16,2016-11-08T02:18:10.241-08:00,Diggernaut,Turn website content into dataset,default,6,2,79,123
+81696,11/8/16,2016-11-08T05:58:20.621-08:00,DADI,"The Technology of the Web, Reinvented.",default,8,5,305264,86
+81466,11/6/16,2016-11-06T00:23:00.000-07:00,Best Of Themes,The simplest way to browse thousands of website themes,default,24,10,51494,920
+69281,11/6/16,2016-11-06T03:36:00.000-08:00,Short.cm,"White label url shortener, create branded links for free",default,14,5,510165,300
+81451,11/6/16,2016-11-06T00:20:00.000-07:00,Trump-Roll,"Prank call friends as Trump or Hillary, hear their response",default,29,11,485358,106
+81415,11/4/16,2016-11-04T08:09:09.050-07:00,Pipefy for Startups,The best way to manage your startup,default,75,6,58,1070
+81277,11/4/16,2016-11-04T00:12:00.000-07:00,Oak,Turn your table into an Augmented Reality playground,pre_launch,20,6,165005,434
+81399,11/4/16,2016-11-04T08:01:31.736-07:00,DroneDeploy App Market,World's first drone data platform for developers,default,9,6,386132,127
+81291,11/3/16,2016-11-03T06:06:34.831-07:00,Jasonette,Make an app by adding JSON to this app.,default,31,4,52134,337
+81254,11/3/16,2016-11-03T06:11:40.082-07:00,PaintCode 3,Turn drawings into code with PaintCode 3.,default,14,3,69701,420
+81112,11/2/16,2016-11-02T01:31:21.877-07:00,Message.io,Bots that work everywhere,default,34,3,18280,631
+81096,11/2/16,2016-11-02T00:04:30.768-07:00,Torus,"A secure, shared workspace for secrets",default,30,3,20,454
+81115,11/2/16,2016-11-02T01:48:07.695-07:00,Upsite.markdown,Beautiful websites with a few lines of markdown,default,15,4,1166,408
+81116,11/2/16,2016-11-02T03:19:52.746-07:00,Instant Content Management,Add content management to any website in under 30 seconds.,default,47,4,38156,445
+81147,11/2/16,2016-11-02T07:02:31.284-07:00,Unito,"Work better together, with the tools you love.",default,45,5,166012,269
+81207,11/2/16,2016-11-02T12:09:33.833-07:00,AppMail,The ultimate e-mail platform for developers,default,0,2,3246,30
+80955,11/1/16,2016-11-01T06:31:11.593-07:00,NoCode,Directory of free resources/tools for non-tech entrepreneurs,default,8,7,185551,549
+80961,11/1/16,2016-11-01T02:04:20.240-07:00,Algolia for Shopify,Bringing instant search results to 300K+ store owners,default,14,6,4081,265
+80974,11/1/16,2016-11-01T03:28:12.002-07:00,webdesignrepo V2,A curation of the best webdesign tools and resources,default,6,4,9782,201
+80985,11/1/16,2016-11-01T04:47:23.953-07:00,Elemeno,A modern API based content management platform,default,8,3,642,128
+80977,11/1/16,2016-11-01T04:07:36.189-07:00,Cozy,"Store, sync, and share your data just the way you want it",default,11,8,213986,47
+80796,10/30/16,2016-10-30T00:01:00.000-07:00,goa,A design driven approach for building microservices in Go,default,9,5,445489,107
+80423,10/29/16,2016-10-29T00:01:00.000-07:00,SB,Tool to develop UI components easily,default,11,3,131779,188
+80719,10/28/16,2016-10-28T09:39:30.120-07:00,Eve,Programming designed for humans,default,27,3,68254,852
+80666,10/28/16,2016-10-28T00:14:19.456-07:00,Fuzzy.ai,Build smarter software. An AI decision-making API.,default,42,4,18280,639
+80669,10/28/16,2016-10-28T06:15:44.966-07:00,Bubbl.us,Brainstorming made simple!,default,4,5,33250,165
+80640,10/28/16,2016-10-28T00:20:00.000-07:00,Sift Ninja,The smart filter that prevents bullying and trolls,default,5,5,609757,106
+80634,10/28/16,2016-10-28T04:04:02.561-07:00,Cariibou,"Secure, simple, and blazingly fast SSD computing",default,13,6,694846,32
+80519,10/27/16,2016-10-27T00:01:00.000-07:00,The New Twitter Developers,An entirely new experience for docs and developer resources,default,33,3,18280,366
+80541,10/27/16,2016-10-27T04:51:56.080-07:00,Cloud by Daplie,The world's first in-home server for Everyone,pre_launch,12,4,626424,206
+80555,10/27/16,2016-10-27T04:32:18.920-07:00,Product Discovery Push Notifications,Beautiful / interactive push notifications for Android & iOS,default,5,9,273318,89
+80387,10/26/16,2016-10-26T00:17:11.949-07:00,Pixabay 2.0,"Over 780,000 free high quality photos and videos",default,97,13,962,1927
+80383,10/26/16,2016-10-26T00:02:48.559-07:00,App Launch Checklist,Planning tool for launching your app successfully,default,52,4,13200,1489
+80440,10/26/16,2016-10-26T06:20:57.478-07:00,BetaList Jobs,All the startup jobs in one place,default,18,4,497,450
+80438,10/26/16,2016-10-26T06:37:52.311-07:00,Somatic,AI image filters with 1 line of code & train your own filter,default,10,7,18951,117
+80437,10/26/16,2016-10-26T06:24:38.549-07:00,Neue Products,Dot grid books for designers and magnetic iPhone cables,default,3,6,591,78
+80425,10/26/16,2016-10-26T13:41:44.731-07:00,Stoplight.io,Supercharge your API strategy,default,14,4,46043,117
+80427,10/26/16,2016-10-26T08:26:02.319-07:00,BlogVault,"WordPress backups, auto & test restore, migrations & more!",default,1,5,4156,34
+80234,10/25/16,2016-10-25T01:08:05.174-07:00,The SaaS CTO Security Checklist,The security checklist all CTOs should follow,default,12,2,10075,553
+80224,10/25/16,2016-10-25T00:36:04.914-07:00,CodingCommunity,A network of top software developers on Instagram,default,3,4,5537,156
+80199,10/25/16,2016-10-25T10:00:00.000-07:00,tumblr2json,Quickly download a backup of any tumblr blog in JSON format,default,1,4,20728,23
+80036,10/23/16,2016-10-23T00:01:00.000-07:00,Comindware Tracker,Workflow management software for modelling and automation.,default,4,8,187634,79
+80014,10/22/16,2016-10-22T01:59:22.256-07:00,Parrot QA,Automate your bug testing without writing a line of code.,default,15,4,79,139
+76051,10/20/16,2016-10-20T00:55:00.000-07:00,TopTraker,"Beautiful, free time tracking",default,9,3,325030,340
+79803,10/20/16,2016-10-20T00:16:23.148-07:00,Spec Mode by UXPin,Auto-generate specs for Sketch prototypes,default,17,6,23,211
+79748,10/19/16,2016-10-19T10:13:37.775-07:00,Stripe: Radar,Fraud prevention done right,default,36,4,57416,1255
+79649,10/19/16,2016-10-19T00:03:48.265-07:00,Slash Webtask,Create serverless Slack bots & commands in seconds,default,10,5,6958,252
+79579,10/19/16,2016-10-19T00:17:00.000-07:00,Test Cafe,Automated browser testing,default,1,3,298567,70
+79749,10/19/16,2016-10-19T10:10:14.324-07:00,HawkPost,Submit your content securely,default,1,8,11207,34
+79545,10/18/16,2016-10-18T02:21:25.916-07:00,Nuage,Domain names with no hassle.,default,142,3,17029,1812
+79532,10/18/16,2016-10-18T00:32:59.204-07:00,Bot Builder by Recast.AI,Create the most advanced bots in the simplest way,default,36,6,962,719
+79526,10/18/16,2016-10-18T00:01:06.300-07:00,Disney Open Source,Explore Disney's Open Source projects,default,6,3,72708,553
+79488,10/18/16,2016-10-18T00:01:00.000-07:00,Squarespace Start,Build a simple website right from your mobile phone.,default,10,7,33503,374
+79501,10/18/16,2016-10-18T00:04:00.000-07:00,Feedline,The hassle free feedback form,default,18,5,184951,141
+79569,10/18/16,2016-10-18T05:58:50.823-07:00,elStartup,A hand-picked directory of the Best resources for Startups,default,2,17,335766,101
+79565,10/18/16,2016-10-18T04:49:05.077-07:00,Urlbox,"Embed website screenshots on your site, blog, email or app.",default,2,3,79,43
+79613,10/18/16,2016-10-18T10:28:23.164-07:00,Real-time Digitsâ€™ Login Funnel in Fabric,Track the end-to-end performance of your onboarding flow,default,1,3,334487,27
+79413,10/17/16,2016-10-17T00:43:37.280-07:00,GhostLab,"Synchronized web development, inspection and testing",default,1,4,79,194
+79354,10/16/16,2016-10-16T00:57:51.683-07:00,Materialette,A material design color palette on macOS / Windows / Linux,default,7,5,601545,431
+79302,10/15/16,2016-10-15T02:06:08.924-07:00,BoardingBot,Send TestFlight invites to beta testers automatically,default,38,4,72708,349
+79283,10/15/16,2016-10-15T01:22:46.658-07:00,Hugobots,On-demand design and development services using whatsapp,default,0,5,496305,64
+79198,10/14/16,2016-10-14T01:11:23.371-07:00,Proofy,Quickly validate and verify your email lists.,default,14,8,79,258
+78847,10/14/16,2016-10-14T07:39:55.736-07:00,InVision + JIRA,Pair an InVision prototype with any JIRA issue,default,2,5,254616,152
+79078,10/13/16,2016-10-13T01:50:23.361-07:00,Stack Match,Find engineering jobs that match your tech stack,default,14,2,1880,251
+78952,10/12/16,2016-10-12T04:55:09.320-07:00,Datazar,Home to Research,default,23,4,16056,409
+78925,10/12/16,2016-10-12T00:26:51.283-07:00,Serverless Framework v1.0,"Build auto-scaling, pay per execution apps on AWS Lambda",default,26,3,1166,464
+78944,10/12/16,2016-10-12T03:57:39.725-07:00,Keegan by Regaind,AI-powered photo coach,default,7,7,5429,147
+78918,10/12/16,2016-10-12T00:03:53.969-07:00,Interactive Broadcasting by Agora.io,Communications API for real-time engagement,default,12,8,12074,128
+78846,10/11/16,2016-10-11T07:52:40.932-07:00,ViewedIt,"Record your screen, share & know instantly when people watch",default,123,10,8660,565
+78858,10/11/16,2016-10-11T08:48:04.893-07:00,Roadmap,Public roadmaps & data-driven feedback,default,27,6,58,500
+78865,10/11/16,2016-10-11T09:15:02.695-07:00,Stack Overflow Developer Story,Show off what you've built,default,5,4,2,385
+78873,10/11/16,2016-10-11T10:10:16.843-07:00,Cluvio,A new cloud analytics platform based on SQL and R,default,8,4,187,41
+75486,10/10/16,2016-10-10T00:23:00.000-07:00,Bottr.co,The world's most simple bot framework,default,32,4,154816,467
+78664,10/10/16,2016-10-10T00:33:35.884-07:00,Devknox,Detect and resolve security issues as you write code.,default,23,4,79,242
+77348,10/8/16,2016-10-08T00:09:00.000-07:00,Hero Patterns,A collection of repeatable SVG background patterns,default,28,4,336863,1078
+78430,10/7/16,2016-10-07T07:35:25.981-07:00,don't-go,Auto-change page title & favicon whenever page loses focus,default,11,7,10295,265
+78500,10/7/16,2016-10-07T03:24:55.802-07:00,Deck,A multi-timeline viewer for GitHub repository events,default,0,3,513505,41
+78265,10/6/16,2016-10-06T00:01:00.000-07:00,CalendarX,Get a calendar  your audience can follow,default,36,5,15735,476
+78341,10/6/16,2016-10-06T02:43:43.979-07:00,Botframe,A playground to design & validate bots,default,12,4,75546,231
+78321,10/6/16,2016-10-06T00:33:01.000-07:00,Crypteron Community Edition,Encryption and key management for C# and Java,default,2,5,246497,36
+78223,10/5/16,2016-10-05T00:06:16.162-07:00,Kap,Capture your screen,default,48,7,1048,642
+78101,10/5/16,2016-10-05T06:35:56.716-07:00,Internet Curated,A collection of 100+ hand-picked curated resources & tools,default,16,4,60619,342
+78290,10/5/16,2016-10-05T10:30:29.649-07:00,Built.io Flow express,IFTTT for business users.,default,14,2,79,129
+78114,10/4/16,2016-10-04T04:38:10.005-07:00,Motion AI + Smooch.io,"Build bots in minutes without code, deploy them anywhere",default,17,6,2536,566
+78073,10/4/16,2016-10-04T00:07:28.458-07:00,Jest 16,Painless JavaScript testing with Jest 16,default,4,3,1166,96
+77587,10/3/16,2016-10-03T03:08:00.000-07:00,Cross-platform analytics by Facebook,Measure your entire business all in one place,default,36,6,8115,571
+77992,10/3/16,2016-10-03T07:35:58.700-07:00,The State Of JavaScript Survey,Discover which JavaScript libraries are the most popular,default,6,3,25,271
+77777,9/30/16,2016-09-30T05:31:04.748-07:00,Chipmunk,WP theme to create your own curated resources website,default,64,5,2081,417
+77762,9/30/16,2016-09-30T01:38:29.428-07:00,Telepat.io Cloud,"Open source, real time API platform",default,10,4,962,205
+77773,9/30/16,2016-09-30T05:03:22.820-07:00,Includer Power-Up for Trello,Get feedback for ideas from the project stakeholders,default,2,4,16056,29
+77615,9/29/16,2016-09-29T00:06:32.169-07:00,Openvid 2.0,"One-click desktop, cam, & mic recording tool for Chrome _Ÿ_¥",default,123,7,23,1341
+77661,9/29/16,2016-09-29T06:43:56.464-07:00,Py,Learn anything on your phone _Ÿ“± from Swift to Astrophysics _Ÿ_€,default,66,6,499578,1175
+77617,9/29/16,2016-09-29T00:16:54.263-07:00,Atomic.io 2.0,"Ultra fast, scalable and fully collaborative prototyping",default,16,7,827,637
+77655,9/29/16,2016-09-29T05:23:53.964-07:00,Caylent,"Build, Deploy & Manage your apps at scale.",default,3,2,79,112
+77693,9/29/16,2016-09-29T11:55:29.552-07:00,LibHunt,A network of curated lists of useful libraries and resources,default,3,2,630249,120
+77555,9/28/16,2016-09-28T10:27:57.879-07:00,Airtable 2.0,Beyond the spreadsheet,default,82,7,5305,993
+77534,9/28/16,2016-09-28T08:51:03.774-07:00,Now.app,Deploy to the cloud from your menubar,default,10,5,91017,289
+77475,9/28/16,2016-09-28T01:27:58.647-07:00,Widgetic,Apps as a Service for DIY website builder platforms.,default,12,4,79,62
+77335,9/27/16,2016-09-27T07:04:49.046-07:00,Realm Mobile Platform,A platform for creating reactive mobile apps effortlessly.,default,13,3,111108,244
+77313,9/27/16,2016-09-27T04:12:13.510-07:00,Intercom Shopify integration,"Track, engage and convert your Shopify store visitors",default,15,4,549153,208
+77379,9/27/16,2016-09-27T09:25:45.757-07:00,Algolia Search for WordPress,Bring instant and relevant search to your WordPress blog,default,35,6,4081,365
+77316,9/27/16,2016-09-27T05:42:06.998-07:00,Codebeat for Android,Automated code review for Android,default,7,4,173963,97
+77162,9/26/16,2016-09-26T00:06:30.294-07:00,UI Movement 2.0,"The best UI design inspiration, daily",default,26,5,16056,1364
+77188,9/26/16,2016-09-26T03:09:39.030-07:00,GoodAppBuilder,Build apps without coding,default,2,3,1565,71
+77118,9/25/16,2016-09-25T03:22:39.581-07:00,Apimint,Design and Mock API + code SDK + Auto Documentation,default,7,6,79,316
+77141,9/25/16,2016-09-25T14:26:36.785-07:00,CodeFactor.io,Automated Code Review for GitHub,default,16,4,557662,223
+31114,9/24/16,2016-09-24T00:12:00.000-07:00,React Color,"A collection of color pickers from Sketch, Photoshop, Chrome",default,5,4,28355,281
+77053,9/24/16,2016-09-24T00:35:00.000-07:00,DownNotifier,Get an alert when your website is down _Ÿ_¨,default,6,3,304335,232
+76966,9/23/16,2016-09-23T00:14:19.719-07:00,Codemade.io,Pinterest for coders,default,20,3,411618,624
+76989,9/23/16,2016-09-23T01:09:49.514-07:00,Comma Chameleon,A desktop CSV editor for data publishers,default,6,2,1565,46
+76859,9/22/16,2016-09-22T00:45:33.238-07:00,Flynn,Open source Heroku on your own servers,default,45,3,7779,659
+76802,9/22/16,2016-09-22T00:06:00.000-07:00,Weebly 4,A complete platform to run your business online,default,9,6,479132,401
+76740,9/21/16,2016-09-21T02:28:45.265-07:00,Buddy,"Smart development automation for Git, GitHub & others.",default,16,4,2603,489
+76711,9/21/16,2016-09-21T03:02:00.000-07:00,Scale Image Recognition API,"API for image recognition, powered by humans",default,12,4,90819,272
+76705,9/21/16,2016-09-21T00:05:00.000-07:00,DevStickers,iMessage stickers for developers,default,7,4,82622,131
+76721,9/21/16,2016-09-21T00:55:01.632-07:00,Browser Bug Searcher,Search for bugs across all the major browser vendors,default,1,3,8915,20
+76574,9/20/16,2016-09-20T02:19:58.772-07:00,Carousel Push Notifications by QGraph,Beautiful and personalized push notifications for iOS 10,default,9,9,341027,207
+76462,9/19/16,2016-09-19T05:00:49.633-07:00,Citysets,Free city-based icon sets,default,11,6,17811,142
+76406,9/19/16,2016-09-19T04:19:00.000-07:00,Surge,Advanced web debugging proxy for Mac & iOS,default,5,6,21070,205
+76480,9/19/16,2016-09-19T07:16:50.804-07:00,NinjaMock,"The faster, better and funnier way of making mockups",default,4,5,4366,67
+76287,9/18/16,2016-09-18T00:04:00.000-07:00,Magic Keyboard,"Fun, browser based keyboard for hackers",default,13,4,72708,195
+76364,9/17/16,2016-09-17T07:06:42.693-07:00,Opzzz,Track the effects of on-call on your devops team,default,1,4,2603,37
+76291,9/16/16,2016-09-16T01:54:34.285-07:00,App Tools,Curated list of the best tools in the mobile app ecosystem.,default,10,4,79,364
+75994,9/15/16,2016-09-15T00:02:00.000-07:00,Slack Beta,A faster and nicer Slack built on Electron,default,78,7,118207,2543
+76143,9/15/16,2016-09-15T00:58:55.149-07:00,Angular 2.0,Learn one way to build applications,default,24,3,14893,622
+76173,9/15/16,2016-09-15T05:28:30.950-07:00,Coderoulette,Pair programming game for developers _Ÿ_€,default,24,4,79,300
+76113,9/15/16,2016-09-15T00:01:00.000-07:00,Adobe Stock,Remember when all stock images looked the same?,default,8,7,1257,287
+76273,9/15/16,2016-09-15T22:02:36.930-07:00,GraphicsJS,Powerful free open-source JavaScript vector graphics library,default,2,5,16056,65
+76099,9/14/16,2016-09-14T12:14:25.041-07:00,GitHub Projects,GitHub takes on Trello with new project management tools,default,46,4,62068,1418
+76013,9/14/16,2016-09-14T02:39:21.684-07:00,Swift Playgrounds,Makes it fun to learn and experiment with code,default,8,5,72708,621
+76036,9/14/16,2016-09-14T05:47:53.667-07:00,Clearbit Reveal,Turn anonymous traffic into company data,default,15,6,871,378
+75996,9/14/16,2016-09-14T00:43:44.839-07:00,Hansel.io for Android apps,Deploy hot-fixes and UI changes in real time for your app,default,38,3,23,171
+75784,9/13/16,2016-09-13T00:29:28.485-07:00,Launchaco,"Instantly search domains, social media handles & logotypes.",default,31,3,67537,850
+75700,9/13/16,2016-09-13T00:01:00.000-07:00,Coding Confessional,Anonymous confessions from programmers,default,26,6,471411,394
+75793,9/13/16,2016-09-13T01:01:02.223-07:00,Walkie,Design Slack dialogs effortlessly,default,44,5,492741,356
+75813,9/13/16,2016-09-13T02:29:52.194-07:00,MethodKit for Product Development,An analog tool to help you discuss & build products,default,7,6,36820,162
+75795,9/13/16,2016-09-13T00:53:08.759-07:00,Virusdie,Clean and protect your websites like a security expert,default,9,5,79,78
+75642,9/12/16,2016-09-12T01:01:17.440-07:00,AppFollow 2.0,The best way to track app activities in the appstores,default,121,9,16056,1262
+75654,9/12/16,2016-09-12T00:21:53.941-07:00,Geo Screenshot,Test your webpage from multiple locations worldwide.,default,5,4,79,141
+75652,9/12/16,2016-09-12T00:08:39.263-07:00,CloudSponge Address Book Widget,Let your users look up contacts without leaving your site.,default,10,4,23,71
+75479,9/10/16,2016-09-10T00:01:00.000-07:00,Materia,Build advanced mobile and web applications.,default,17,3,79,363
+75438,9/9/16,2016-09-09T00:32:40.063-07:00,CafÃ© Wifi,Share cafÃ©s and their Wi-Fi speeds â€” w/ Foursquare check-ins,default,26,8,29366,424
+75452,9/9/16,2016-09-09T01:52:08.180-07:00,Fuck Yeah Markdown,Turns websites into markdown,default,1,3,7007,116
+75298,9/8/16,2016-09-08T00:05:14.759-07:00,teleconsole,Share your terminal in seconds,default,12,2,1368,433
+75182,9/8/16,2016-09-08T00:01:00.000-07:00,Engineer Worth,Interactive post to check your engineering time investments,default,3,3,4484,47
+75208,9/7/16,2016-09-07T05:41:53.233-07:00,Bubblestore,Ready-made templates to build apps without code on Bubble,default,40,5,2081,325
+75199,9/7/16,2016-09-07T02:46:51.480-07:00,Quill 1.0,An API driven rich text editor,default,6,3,278,218
+75172,9/7/16,2016-09-07T00:16:09.686-07:00,FlexiHub,Connect remote USB devices via Internet or LAN,default,4,5,121987,131
+75069,9/6/16,2016-09-06T03:11:48.534-07:00,Neuron,Teaching machines to learn,default,20,5,37580,286
+75116,9/6/16,2016-09-06T08:40:07.526-07:00,Grade,Complementary gradients generated from images,default,5,2,8171,149
+74995,9/6/16,2016-09-06T00:06:00.000-07:00,Colorize,Turns any word or phrase into a hex color,default,7,3,239747,124
+75145,9/6/16,2016-09-06T12:07:00.493-07:00,Superpowered 3D Audio Spatializer,"Low power, cross-platform 3D audio",default,0,2,25811,24
+74954,9/5/16,2016-09-05T00:29:46.030-07:00,Emoji CSS,Add Emoji's to your website,default,11,5,1010,589
+74929,9/5/16,2016-09-05T00:04:00.000-07:00,docs2epub,Get your favorite docs as eBooks,default,8,5,70731,459
+74988,9/5/16,2016-09-05T07:19:21.964-07:00,Plottable.js,"Flexible, interactive charts for the web.",default,2,3,79,284
+74896,9/3/16,2016-09-03T14:24:03.268-07:00,Open Laravel,A repository of open source projects built using Laravel,default,3,3,58,143
+74709,9/2/16,2016-09-02T00:01:00.000-07:00,HacknPlan,Where project management meets game design,default,4,5,648652,85
+74380,8/31/16,2016-08-31T06:25:00.000-07:00,Svgsus,"Organize, clean and transform your SVGs",default,20,4,31882,449
+74483,8/31/16,2016-08-31T00:14:48.073-07:00,Mux,Video performance analytics for online media and developers,default,2,7,90819,134
+74499,8/31/16,2016-08-31T01:00:34.259-07:00,Instana,Dynamic APM for web-scale applications,default,2,4,1257,111
+74325,8/30/16,2016-08-30T00:19:00.000-07:00,Email List Verify,Remove hard bounces and email traps from your email lists,default,91,6,304335,826
+74236,8/29/16,2016-08-29T02:47:02.407-07:00,Hud,A beautiful way to manage your UI patterns.,default,44,4,2529,578
+74142,8/28/16,2016-08-28T03:01:12.416-07:00,Wing,"A dead-simple, responsive, CSS framework",default,16,3,419992,517
+74136,8/28/16,2016-08-28T03:02:26.900-07:00,Kelir,"Color picker, color pallete and color gradient for your Mac",default,8,6,313946,208
+74016,8/26/16,2016-08-26T04:47:35.082-07:00,Clean Text for iOS,An essential tool for removing text formatting on iOS _Ÿ“±_Ÿ‘Œ,default,9,5,48058,160
+73924,8/25/16,2016-08-25T07:40:32.868-07:00,Site Auditor,"Find, fix and optimize your site for search engines",default,57,4,347958,549
+73858,8/25/16,2016-08-25T01:06:05.677-07:00,Carbide,A new kind of programming environment,default,14,2,29511,359
+73829,8/25/16,2016-08-25T03:03:00.000-07:00,CodeDammit,Learn programming by looking at real code examples,default,17,3,641516,331
+73884,8/25/16,2016-08-25T00:59:09.261-07:00,Reactotron,A CLI & OS X app for inspecting ReactJS & React Native apps,default,2,3,225383,88
+73765,8/24/16,2016-08-24T00:03:16.437-07:00,Branch Journeys,The solution for mobile web to app conversion,default,38,5,13200,852
+73849,8/24/16,2016-08-24T11:46:41.605-07:00,Pixi.js,Fast lightweight 2D library that works across all devices,default,1,2,14545,42
+73647,8/24/16,2016-08-24T03:35:00.000-07:00,Exoscale,VMs and object storage for cloud native teams.,default,4,3,525450,47
+73630,8/23/16,2016-08-23T00:27:08.391-07:00,Sixa,"Personal cloud computer, built for developers",default,49,2,72708,601
+68096,8/23/16,2016-08-23T00:32:26.914-07:00,wallarm,Reveal security flaws in web apps and APIs,default,4,4,187,205
+73710,8/23/16,2016-08-23T10:42:45.193-07:00,Mapbox Studio dataset editor,Creating and edit geospatial data in your browser,default,7,4,178546,143
+73705,8/23/16,2016-08-23T09:23:25.439-07:00,Clkim,Branded Links + Special Redirects + Retarget on Click,default,15,5,1880,250
+73649,8/23/16,2016-08-23T07:36:44.100-07:00,Trailbot,Monitor your files and react upon unwanted modification,default,3,2,210957,77
+36504,8/23/16,2016-08-23T01:26:55.843-07:00,Pepipost,Email delivery platform. Pay for unopened emails only.,default,10,6,22679,61
+73493,8/22/16,2016-08-22T01:25:57.575-07:00,TinkerTool,Tinker with the hidden settings of your Mac,default,20,4,102370,844
+73500,8/22/16,2016-08-22T00:03:31.774-07:00,Gigster 3.0,Smart software development service,default,37,7,3866,594
+73506,8/22/16,2016-08-22T02:23:33.416-07:00,BlockBlock,Block persistently installed apps and services.,default,2,4,65130,69
+73387,8/21/16,2016-08-21T10:22:21.145-07:00,HTML5 Speedtest by Ookla,The worldâ€™s most trusted internet speedtest,default,43,2,53052,546
+73406,8/21/16,2016-08-21T01:20:34.621-07:00,HYFY,Record your screen & voice. Share instantly.,default,38,5,26571,579
+73424,8/21/16,2016-08-21T05:48:08.764-07:00,CRX Extractor,Get any Chrome Extension source code. Learn and hack!,default,24,6,33934,513
+73373,8/20/16,2016-08-20T00:19:53.019-07:00,Arbor,Easily manage product development,default,37,6,11445,698
+73247,8/19/16,2016-08-19T00:01:00.000-07:00,Canvas for iOS,"Write with your team, in realtime, using markdown",default,26,6,561394,534
+73080,8/18/16,2016-08-18T07:25:17.530-07:00,OpenID Connect Playground,Learn about the standard behind Google SSO,default,1,2,6958,108
+73053,8/17/16,2016-08-17T02:13:51.306-07:00,Codeplace,Learn how to code by building real web apps,default,45,6,10075,855
+73041,8/17/16,2016-08-17T00:27:11.785-07:00,Slideouts by Appcues,Publish targeted messages to better engage your users,default,26,6,69,346
+70174,8/17/16,2016-08-17T01:25:00.000-07:00,vimgifs,Learn about vim by watching gifs,default,9,5,2256,265
+72183,8/17/16,2016-08-17T00:49:01.465-07:00,stdlib,Standard Library of the Internet â€” Build/Share Microservices,default,14,4,605843,111
+72900,8/16/16,2016-08-16T01:18:45.910-07:00,Mimo,Learn how to code on your iPhone_Ÿ“±,default,114,7,1257,1354
+72880,8/16/16,2016-08-16T00:01:00.000-07:00,Wordhop.io,Bot analytics and insights delivered to your Slack team,default,9,9,20,114
+72907,8/16/16,2016-08-16T02:50:38.046-07:00,botmetrics,Instant analytics for your bots,default,1,6,355800,65
+72820,8/16/16,2016-08-16T00:03:00.000-07:00,SiteSee Chrome Extension,A wallpaper-like gallery of beautiful websites,no_longer_online,2,5,584822,31
+72818,8/15/16,2016-08-15T09:43:46.399-07:00,HiOperator,Customer support as a service,default,50,5,365527,374
+72668,8/15/16,2016-08-15T02:01:00.000-07:00,Habitus,An open source build flow tool for Docker,default,6,4,429489,119
+72558,8/14/16,2016-08-14T02:30:34.047-07:00,Indie Hackers,Learn how developers are writing their own paychecks.,default,29,4,67787,1042
+72675,8/14/16,2016-08-14T00:09:00.000-07:00,Find It,Browse your Mac's hard drive using your iPhone,default,17,4,631183,405
+72733,8/14/16,2016-08-14T02:41:32.078-07:00,Recharts,A composable charting library built on React components,default,4,4,72708,325
+72693,8/13/16,2016-08-13T00:52:55.486-07:00,YouTube to MP3 API,Get a link to a downloadable mp3 file of any YouTube video.,default,8,4,201831,310
+72672,8/13/16,2016-08-13T01:30:29.763-07:00,Mobile App Revenue Calculator,Estimate your app revenue from ads and in-app purchases,default,3,2,452323,149
+72605,8/12/16,2016-08-12T01:28:55.714-07:00,Image Cyborg,Download all images on a web page,default,22,4,537057,486
+72611,8/12/16,2016-08-12T01:06:10.231-07:00,github-plus,"Chrome Extension to display file size, download & copy link",default,19,7,294870,243
+72604,8/12/16,2016-08-12T01:29:52.294-07:00,Freeter,The smartest way to work on your projects,default,11,9,16056,194
+72565,8/12/16,2016-08-12T04:45:00.000-07:00,Rebrandly API,Empower your app with custom short links,default,49,7,443764,746
+72596,8/12/16,2016-08-12T00:43:19.791-07:00,AppSignal,Error tracking & performance insights for Ruby apps,default,16,4,48478,164
+72631,8/12/16,2016-08-12T03:41:26.155-07:00,Mobile Web Accessibility Checker,Evaluate mobile websites for accessibility,default,2,4,24378,41
+72483,8/11/16,2016-08-11T01:22:26.881-07:00,HTML Email,Responsive HTML email templates for startups & developers,default,54,7,79,1812
+72505,8/11/16,2016-08-11T03:50:47.469-07:00,Ghost Browser,The productivity browser for technology professionals,default,85,9,479144,496
+72480,8/11/16,2016-08-11T04:11:55.395-07:00,Email YouTube Video,Embed a YouTube video in your email,default,16,5,20438,155
+72494,8/11/16,2016-08-11T01:36:49.130-07:00,The Messenger,"Curated newsletter on messengers, chatbots, industry experts",default,14,7,1257,136
+72496,8/11/16,2016-08-11T02:20:39.788-07:00,Approve-CI,A continuous integration tool monitoring code reviews.,default,3,3,345934,68
+72299,8/10/16,2016-08-10T00:04:00.000-07:00,Pusher Mobile Push Notifications API,Free API to send Push Notifications to iOS & Android,default,38,6,4281,1102
+72363,8/10/16,2016-08-10T01:57:15.263-07:00,EZ Map,The easiest way to generate Google Maps for your own sites.,default,2,3,529754,138
+72387,8/10/16,2016-08-10T05:12:32.562-07:00,Pomodoro by Feather,Minimalist pomodoro timer to help you stay productive,default,8,3,116329,132
+72325,8/10/16,2016-08-10T01:15:02.073-07:00,Jira Bot for Slack,A Slack Bot connecting you with your tickets,default,7,4,26571,50
+72426,8/10/16,2016-08-10T12:38:43.904-07:00,Kalipso Studio V4,"Create W10 IoT, Mobile & Android apps for Barcode & RFID",default,0,3,603758,29
+72237,8/9/16,2016-08-09T07:00:00.000-07:00,Fomo,The online equivalent of a busy store.,default,75,4,8319,530
+72282,8/9/16,2016-08-09T06:10:22.592-07:00,Customer.io Actions,Send messages across any channel - from push to postcards,default,23,5,1,302
+72256,8/9/16,2016-08-09T02:01:22.954-07:00,Uptime Robot App,Free uptime monitoring service,default,13,4,48058,172
+72205,8/9/16,2016-08-09T00:01:00.000-07:00,Counter,Counting characters and words in the text layer.,default,0,4,132820,42
+72267,8/9/16,2016-08-09T03:18:15.523-07:00,Github Widget,An embeddable widget for all your GitHub stats and projects,default,2,3,609120,30
+72145,8/8/16,2016-08-08T05:04:20.889-07:00,Website Downloader,Download source code from any website,default,73,6,157275,1473
+72129,8/8/16,2016-08-08T02:39:17.558-07:00,ColorCubo,"Simple, fast colour management",default,3,5,623722,54
+72053,8/7/16,2016-08-07T01:47:51.549-07:00,GitHub Repository Size,Browser extension to show file and repo size in GitHub,default,13,7,268356,230
+72071,8/7/16,2016-08-07T04:54:58.221-07:00,Scrivito CMS,The professional cloud-based Rails CMS,default,4,5,457747,95
+72090,8/7/16,2016-08-07T12:50:07.226-07:00,Kidoz,Kids content discovery platform,default,2,4,98799,50
+72001,8/6/16,2016-08-06T02:29:22.814-07:00,Turi,Machine learning platform for developers and data scientists,default,5,4,81527,320
+71984,8/6/16,2016-08-06T00:01:00.000-07:00,Emoji Lookup for Launchbar,Launchbar action to fnd the perfect emoji by name or keyword,default,1,4,168087,71
+71928,8/5/16,2016-08-05T00:46:49.000-07:00,userinput.io,Get on-demand user feedback for your projects,default,40,5,22183,410
+71926,8/5/16,2016-08-05T00:30:34.634-07:00,HappyFox Chat for Mobile,Deliver engaging live chat experience for mobile sites.,default,31,6,79,168
+71930,8/5/16,2016-08-05T01:49:35.864-07:00,Hyper,Make apps with the hypercard for the modern age,default,7,7,48058,108
+71896,8/5/16,2016-08-05T00:38:14.019-07:00,Jumpsuit,A minimal React and Redux framework,default,6,2,532489,109
+71829,8/4/16,2016-08-04T03:05:06.330-07:00,AppInstitute,Create iOS & Android apps quickly without coding.,default,27,4,79,535
+71871,8/4/16,2016-08-04T09:51:41.293-07:00,Dwolla Dashboard and Admin,"Visualize, track, and manage payments in real-time",default,5,2,19444,112
+42943,8/3/16,2016-08-03T00:01:00.000-07:00,Sharingbuttons.io 2.0,Super fast and easy social media sharing buttons.,default,47,4,232642,716
+71750,8/3/16,2016-08-03T09:59:33.822-07:00,Slack Events API,Subscribe to events in Slack via HTTP,default,6,4,29723,217
+71473,8/3/16,2016-08-03T12:00:00.000-07:00,lightgallery.js,Full featured Javascript gallery. No dependencies.,default,16,3,346499,104
+71701,8/3/16,2016-08-03T06:30:26.334-07:00,Heartbeat,Transform REST endpoints into streaming APIs,default,3,4,46043,141
+71489,8/2/16,2016-08-02T00:09:17.939-07:00,Botanalytics,Conversational analytics for bots,default,27,4,23,334
+71400,8/1/16,2016-08-01T05:30:20.421-07:00,Stitch,Consolidate your customer and product data in minutes,default,21,4,6206,366
+71432,8/1/16,2016-08-01T09:54:01.726-07:00,Dummi,The smart way to generate random data for your projects.,default,20,6,621964,379
+71404,8/1/16,2016-08-01T06:03:13.105-07:00,Brightwork,Develop serverless apps using Javascript,default,27,2,1518,335
+71364,8/1/16,2016-08-01T01:05:43.725-07:00,Emoji Mart,Slack-like customizable emoji picker component for React,default,3,4,62068,65
+71305,7/31/16,2016-07-31T00:00:19.000-07:00,LetterScan,Never type a text out again. Easy image to text conversion.,default,15,7,520598,167
+71225,7/29/16,2016-07-29T06:27:19.782-07:00,Paw 3,The most advanced API tool for Mac,default,47,4,62068,655
+71196,7/29/16,2016-07-29T01:41:29.031-07:00,Appspotr,"Create, preview & publish your native iOS & Android apps.",default,7,4,79,217
+71125,7/28/16,2016-07-28T07:50:21.143-07:00,LaunchKit - Open Source,"A popular suite of developer tools, now 100% open source.",default,20,3,8052,778
+71096,7/28/16,2016-07-28T03:34:22.984-07:00,React Jobs,A job site to search for React job listings,default,5,4,72708,116
+71107,7/28/16,2016-07-28T05:24:32.878-07:00,Unravel,"Detect problems with conversions, advertising and analytics ",default,2,5,16056,63
+70969,7/27/16,2016-07-27T04:02:32.247-07:00,Screenful for Trello,Visual dashboards and automated reports that you can share,default,12,5,173804,471
+71022,7/27/16,2016-07-27T08:09:51.808-07:00, IncludeWP,Top open-source frameworks for WordPress plugin & theme devs,default,12,4,9412,400
+71003,7/27/16,2016-07-27T06:29:38.000-07:00,CloudApp 4.0,Lightning fast media sharing and screengrabs,default,21,8,18280,373
+70966,7/27/16,2016-07-27T04:03:07.827-07:00,Multiple.js,Sharing background across multiple elements using CSS,default,7,4,497217,218
+71012,7/27/16,2016-07-27T07:19:39.160-07:00,Keplr,Turn your datasets into prediction engines,default,6,3,618185,175
+70824,7/26/16,2016-07-26T01:23:04.751-07:00,BitBlox,Create beautiful websites in no time _Ÿ’«,default,62,7,1565,576
+70848,7/26/16,2016-07-26T05:14:00.929-07:00,Speculo,Colour palette visualisation,default,2,3,8171,62
+70705,7/25/16,2016-07-25T03:35:18.036-07:00,Fashion,E-commerce mobile UI kit,default,4,7,44798,160
+70721,7/25/16,2016-07-25T06:08:05.730-07:00,Deveo,"Free private code hosting for Git, Mercurial, & SVN",default,8,3,233696,81
+70651,7/24/16,2016-07-24T00:30:53.856-07:00,Headspin,Test your mobile app on different global cell networks,default,5,3,962,245
+70634,7/23/16,2016-07-23T07:15:18.089-07:00,Redbeard,Framework for fast & simple native app development,default,31,2,851,404
+70495,7/22/16,2016-07-22T04:47:00.000-07:00,Framer Preview,A brand new way to preview Framer designs natively on iOS,default,8,6,561394,271
+70430,7/22/16,2016-07-22T01:33:08.000-07:00,Mapillary,Street-level photos for everyone ,default,14,7,4287,222
+70485,7/22/16,2016-07-22T08:30:00.000-07:00,Cola Bubble Development Kit,"Build custom Cola Bubbles, get in on the conversation",default,4,5,487126,28
+70400,7/21/16,2016-07-21T03:59:06.365-07:00,Stack Overflow Documentation,A crowdsourced developer documentation,default,11,2,5429,456
+70376,7/21/16,2016-07-21T01:41:40.708-07:00,WelcomeJames,British coders fearing the Brexit are welcome to France! ,default,17,4,30861,147
+70297,7/21/16,2016-07-21T00:01:00.000-07:00,Locate,Shorten physical addresses to a 6 digit code,default,16,3,612032,96
+70362,7/21/16,2016-07-21T00:26:36.370-07:00,Cody bot for Slack,Finally brings visual discussions to Slack (by Codesign.io),default,6,6,16056,87
+70383,7/21/16,2016-07-21T02:06:51.968-07:00,Prott Interaction Map,Automated screen transition diagrams for all projects!,default,3,6,57694,77
+70225,7/20/16,2016-07-20T01:55:17.418-07:00,Jets.js,Native CSS search engine,default,8,4,497217,104
+70278,7/20/16,2016-07-20T07:59:20.251-07:00,Basecamp 3 API,A JSON-only API for Basecamp 3.,default,2,4,561394,49
+70153,7/20/16,2016-07-20T00:01:00.000-07:00,LucyBot API Portal,Beautiful self-hosted REST API documentation,default,0,6,370900,36
+69982,7/19/16,2016-07-19T00:01:00.000-07:00,Simpla,"Dynamic content, without the CMS",default,68,4,18280,937
+70048,7/19/16,2016-07-19T00:22:01.000-07:00,MERN 2.0,Easily build production-ready universal apps,default,6,3,22067,194
+70018,7/19/16,2016-07-19T00:04:00.000-07:00,Slack Gitsin,A beautiful Slack command line interface,default,12,5,502017,109
+70080,7/19/16,2016-07-19T00:51:30.272-07:00,SwiftyBeaver Logging Platform,The worldâ€™s first logging platform for Swift,default,9,4,286113,104
+70089,7/19/16,2016-07-19T01:52:41.413-07:00,Airship,Add delivery to your store in under 5 minutes!,default,7,6,430881,69
+70127,7/19/16,2016-07-19T08:44:51.931-07:00,Teamchatviz,Visualize how your team communicates on Slack,default,3,8,8552,67
+70110,7/19/16,2016-07-19T05:04:50.400-07:00,Cosmic JS,API-first cloud-based CMS,default,7,4,88522,82
+70025,7/19/16,2016-07-19T00:05:00.000-07:00,Froala Editor,A beautiful modern WYSIWYG HTML text editor,default,0,6,80567,63
+69913,7/19/16,2016-07-19T06:12:50.146-07:00,GitHub Enhanced Comments,Placeholder variables for GitHub comments and issues,default,6,5,68923,41
+70105,7/19/16,2016-07-19T03:41:52.648-07:00,SashiDo,Migrate all Parse files to your own Amazon S3,default,2,3,173350,39
+70082,7/19/16,2016-07-19T00:49:15.122-07:00,Vobla,Back up your Linux servers continuously,default,5,3,1565,51
+69980,7/18/16,2016-07-18T06:49:01.065-07:00,Hitch,Where developers stay informed of API changes & discussion,default,53,3,18280,376
+69927,7/18/16,2016-07-18T00:02:35.000-07:00,Kueri Platform,A complete platform for integrating natural language to SQL,default,37,4,962,237
+70022,7/18/16,2016-07-18T10:47:48.621-07:00,Grav 1.1,"An open source flat file CMS, updated",default,1,5,336785,94
+69886,7/17/16,2016-07-17T04:47:20.003-07:00,hack.css,The CSS framework for hackers,default,5,3,72708,283
+69880,7/17/16,2016-07-17T02:20:54.000-07:00,MightySignal Top SDKs,Most used SDKs in top 200 free iOS apps. Learn what to use.,default,6,3,962,266
+69808,7/16/16,2016-07-16T02:45:40.148-07:00,HyperTerm,"Terminal emulator based on JS, HTML and CSS",default,32,4,91017,908
+69746,7/16/16,2016-07-16T03:00:00.000-07:00,Mail Tester,Test the spamminess of your email,default,19,4,787,621
+69834,7/16/16,2016-07-16T02:24:25.637-07:00,Gruik,Free and open-source note-taking service,default,1,5,12413,141
+69735,7/15/16,2016-07-15T00:52:42.969-07:00,108 Handsome Headers,Creative website headers quickly and easily,default,55,6,229977,383
+69784,7/15/16,2016-07-15T06:33:09.446-07:00,m-cli,Swiss command line army knife for Mac OS X,default,3,6,456556,238
+69768,7/15/16,2016-07-15T02:02:27.948-07:00,Web Push by MoEngage,"Triggered, real-time & personalized web push notifications",default,17,7,79,351
+69758,7/15/16,2016-07-15T00:05:23.528-07:00,RepokÃ©mon,Showcase of GitHub repos with PokÃ©mon names,default,7,4,681,135
+69762,7/15/16,2016-07-15T02:12:28.780-07:00,Puck.js,The ground-breaking bluetooth beacon,pre_launch,2,6,107312,111
+69727,7/15/16,2016-07-15T00:05:00.000-07:00,Medable - The platform for healthcare,"HIPAA Compliance, Research",default,2,8,603973,88
+69561,7/14/16,2016-07-14T00:59:49.400-07:00,whodidthis.io,"Publish your projects, get meaningful endorsements and more.",default,16,4,79,189
+69692,7/14/16,2016-07-14T07:30:23.300-07:00,Colorize It,Use deep learning to colorize black and white photos,default,12,4,1786,148
+69607,7/14/16,2016-07-14T03:00:00.000-07:00,Citus Cloud,A database for building real-time apps on billions of events,default,10,5,13405,85
+69535,7/14/16,2016-07-14T01:08:25.977-07:00,Stacktile,Turn a markdown document into an interactive tutorial,default,2,3,290434,58
+69476,7/13/16,2016-07-13T02:47:57.105-07:00,Marmoset,Create gorgeous code snapshots.,default,16,3,273871,444
+69485,7/13/16,2016-07-13T03:03:11.457-07:00,Pokemon Go Controller,Play Pokemon Go safely or at unavailable areas ,default,27,3,51347,130
+69549,7/13/16,2016-07-13T08:39:11.948-07:00,Karmalert,"Get mention alerts from Reddit, Twitter, Product Hunt & more",default,9,5,451277,49
+69403,7/12/16,2016-07-12T12:04:47.186-07:00,100 Days of Swift,Learn Swift by building cool projects,default,6,4,32963,614
+69295,7/12/16,2016-07-12T01:40:34.412-07:00,BotSociety,The fastest way to create a bot experience preview,default,8,4,15858,286
+69265,7/12/16,2016-07-12T02:00:00.000-07:00,Dependency CI,Continuous testing for your application's dependencies,default,8,2,41743,178
+69350,7/12/16,2016-07-12T04:16:19.446-07:00,Phoenix Startup UI kit,Powerful cross-platform UI Kit (PSD & HTML5),default,47,9,16056,274
+69368,7/12/16,2016-07-12T05:49:59.519-07:00,Hummingbird by Olark,A mobile-friendly live chat experience,default,7,5,1,86
+69319,7/12/16,2016-07-12T01:37:52.282-07:00,LGTM Camera,Create LGTM animated GIFs,default,3,4,17714,45
+69195,7/11/16,2016-07-11T00:06:36.718-07:00,MessageBird Chat API,Connect with your customers through different messaging apps,default,45,7,1368,748
+45831,7/10/16,2016-07-10T03:59:00.000-07:00,Slaask,Customer chat tool for Slack. ,default,22,12,37779,279
+69139,7/10/16,2016-07-10T07:40:00.000-07:00,CSS-Mint,Lightweight and simple to use CSS UI Kit,default,13,9,489944,191
+69068,7/9/16,2016-07-09T03:38:00.000-07:00,ZingTouch,A JavaScript gesture detection library,default,12,4,601545,297
+69054,7/9/16,2016-07-09T00:02:00.000-07:00,Countly,"Open source, enterprise mobile & web analytics platform",default,11,6,46533,197
+67344,7/9/16,2016-07-09T03:01:00.000-07:00,MATRIX Creator,"Raspberry Pi Dev Board w/ 8 Mics, FPGA, MC, IMU, + more",default,12,5,346952,110
+68852,7/8/16,2016-07-08T00:21:56.172-07:00,Online Web Scraper,Cloud hosted data extraction tool,default,37,4,111573,536
+68816,7/8/16,2016-07-08T00:11:00.000-07:00,Blendo,The simplest way to build and host your data pipelines,default,12,6,44345,196
+68895,7/7/16,2016-07-07T05:31:40.468-07:00,Mybridge 2.0,Top articles for your professional skills,default,59,5,327160,728
+68858,7/7/16,2016-07-07T00:03:56.174-07:00,iOSStash,A huge collection of app-related tools,default,49,5,8843,648
+68747,7/7/16,2016-07-07T01:30:43.966-07:00,APPlyzer,"Rankings, reviews & keywords for app developers",default,32,7,1257,255
+68921,7/7/16,2016-07-07T08:06:49.000-07:00,Integram v2,Integrate Telegram into your workflow. Now open source.,default,12,8,18280,156
+68841,7/7/16,2016-07-07T01:51:42.371-07:00,Appbot,"Surface bugs, feature requests & more from app reviews",default,16,6,28425,150
+68873,7/7/16,2016-07-07T01:05:37.000-07:00,Continuous,Fast and powerful .NET C# and F# IDE for iOS,default,2,4,103684,60
+68784,7/6/16,2016-07-06T08:04:10.258-07:00,Codebeat for iOS,Automated code review for iOS,default,32,5,23,357
+68675,7/6/16,2016-07-06T00:03:00.000-07:00,AppHub Deploy,Update React Native apps without re-submitting to Apple,default,18,4,262215,144
+68740,7/6/16,2016-07-06T03:15:08.301-07:00,Kat,iOS app to test any REST service,default,9,6,499344,80
+68728,7/6/16,2016-07-06T02:32:52.781-07:00,Cashew,A simple Github issues macOS client,default,17,4,48058,66
+68766,7/6/16,2016-07-06T07:26:47.371-07:00,ZenLocator,Beautifully simple store locator,default,4,6,33521,32
+68589,7/5/16,2016-07-05T02:31:34.000-07:00,Blisk Browser,A Chromium-based browser for Web developers,default,119,4,2081,1117
+68576,7/5/16,2016-07-05T00:00:05.056-07:00,TasteKit,Recommendations as a service,default,31,3,177,575
+68622,7/5/16,2016-07-05T06:49:23.201-07:00,Trym,"Beautiful app to help you view, optimize and convert SVG",default,6,4,598086,139
+68500,7/4/16,2016-07-04T03:47:14.267-07:00,Markdown to PDF,Super simple way to get your markdown files to PDF,default,2,4,133945,198
+68506,7/4/16,2016-07-04T04:02:32.349-07:00,Moeditor,All-purpose markdown editor built with Electron,default,20,6,72708,195
+68514,7/4/16,2016-07-04T05:25:25.948-07:00,Macgyver,API marketplace for developers by developers ,default,5,4,16056,138
+68533,7/4/16,2016-07-04T07:41:23.434-07:00,Zilly,A smart bot for WordPress resources,default,1,5,9412,61
+68450,7/3/16,2016-07-03T08:05:14.973-07:00, Search Scopes for Web Developers,Quickly search through web development things,default,6,3,16056,186
+68433,7/3/16,2016-07-03T03:42:23.969-07:00, Stacksight,Operational insights for your  Open Source applications,default,14,6,174927,181
+68435,7/3/16,2016-07-03T00:42:56.546-07:00,AlexaTutorial.com,Master the Alexa Skills Kit with Python,default,6,2,962,142
+68427,7/2/16,2016-07-02T20:09:26.000-07:00,Forestry,A simple CMS built for devs who hate bloat,default,16,4,962,282
+68157,7/2/16,2016-07-02T00:28:00.000-07:00,Save My Palette,"A brand new tool to save, share and export color palettes",default,9,5,566698,197
+68250,7/1/16,2016-07-01T00:01:00.000-07:00,Stripe iOS SDK,Accept both Apple Pay and credit card payments easily on iOS,default,14,5,313427,779
+68285,7/1/16,2016-07-01T00:59:45.750-07:00,Rollover,Rollover image generator for emails,default,12,4,687,210
+68297,7/1/16,2016-07-01T01:57:19.556-07:00,Nitrous Pubstorm,Deploy static websites to a superfast global CDN in seconds.,default,10,2,79,122
+68263,7/1/16,2016-07-01T01:25:00.000-07:00,Minio,"Store photos, videos, VMs, containers or data as objects",default,2,5,70047,61
+68161,6/30/16,2016-06-30T01:07:00.633-07:00,StandupScreen for Trello,Turn a magnetic whiteboard into an interactive Trello board,default,24,4,296289,387
+68169,6/30/16,2016-06-30T01:46:10.495-07:00,Instamake,Curated resources to build an online business with no code,default,11,6,2081,453
+68007,6/29/16,2016-06-29T00:01:22.596-07:00,Scale ,Get human tasks done with just one line of code.,default,104,5,79,1438
+67984,6/29/16,2016-06-29T00:01:00.000-07:00,Text A Coder,"Send a text, get a developer and project manager instantly",default,45,3,45,480
+68032,6/29/16,2016-06-29T10:58:44.321-07:00,Astrum,A lightweight pattern library for any web project,default,14,4,13621,326
+66992,6/29/16,2016-06-29T00:39:00.000-07:00,Cocorico,Build better service marketplaces - available in open source,default,1,6,562349,70
+67818,6/28/16,2016-06-28T05:37:00.000-07:00,Anime.js,A flexible yet lightweight Javascript animation library.,default,14,4,136174,627
+67807,6/28/16,2016-06-28T00:07:00.000-07:00,Collab on Code,Write code remotely in real-time with coworkers and clients,default,25,5,98746,268
+67862,6/28/16,2016-06-28T02:51:51.601-07:00,Bitmovin Adaptive Streaming Player,Play HLS or MPEG-DASH with no buffering and w/o plugins,default,20,5,234587,112
+67871,6/28/16,2016-06-28T05:39:10.270-07:00,WISP HR Solution,The easiest way to create customizable employee applications,default,2,10,215336,32
+67719,6/27/16,2016-06-27T01:07:24.588-07:00,Type Anything,Test & create the perfect typography setup for your website,default,94,7,238921,1521
+67720,6/27/16,2016-06-27T01:01:26.000-07:00,Code NASA,253 NASA open source software projects,default,13,5,72708,851
+67373,6/27/16,2016-06-27T01:00:01.000-07:00,Stream 2.0,"API for building, scaling and personalizing feeds",default,24,3,8738,560
+67735,6/27/16,2016-06-27T03:44:20.077-07:00,iOS 10 GUI Kit,Free fully customizable UI Kit for Sketch & Photoshop,default,20,5,591,619
+67732,6/27/16,2016-06-27T02:50:53.912-07:00,Teambition,Project management and group chat,default,10,4,1257,59
+67700,6/27/16,2016-06-27T00:37:31.000-07:00,SwiftLinkPreview,It makes a preview from an url grabbing all the information,default,0,3,182920,49
+67673,6/26/16,2016-06-26T01:03:44.491-07:00,Mac CLi,OS X command line tools for developers,default,25,3,72708,493
+67466,6/26/16,2016-06-26T01:26:16.410-07:00,Assertible,QA for the web,default,4,4,488647,126
+67644,6/25/16,2016-06-25T09:13:40.181-07:00,Ripl,Custom animated posts for social media ,default,11,6,357736,120
+67500,6/24/16,2016-06-24T00:01:00.000-07:00,Personal Workbot for Slack,"A Slack buddy for your business apps. Smarter, more relevant",default,27,6,138974,363
+67554,6/24/16,2016-06-24T01:11:10.498-07:00,Calligraphy,Build your own Ghost theme,default,9,5,687,194
+67369,6/23/16,2016-06-23T00:34:15.576-07:00,Emoj,Find relevant emojis from text on the command-line,default,8,3,56547,281
+67475,6/23/16,2016-06-23T09:24:45.199-07:00,Snyk for GitHub,Fix vulnerabilities in Node & npm dependencies with a click.,default,6,3,54,231
+67396,6/23/16,2016-06-23T00:45:00.000-07:00,ConstructVR,The simplest way to distribute private GearVR apps,default,3,5,90819,95
+67398,6/23/16,2016-06-23T01:16:14.834-07:00,GH Emoji,Github emoji parser,default,6,4,72708,40
+67289,6/22/16,2016-06-22T06:01:36.678-07:00,Native Analytics by Keen IO,Build and ship analytics features for your users.,default,85,5,1,698
+67330,6/22/16,2016-06-22T10:11:32.606-07:00,Giftbit Payment API,Stripe for gift cards,default,19,6,8791,306
+67275,6/22/16,2016-06-22T03:31:33.276-07:00,Teletext.io,Rebranded to INSTANT content management - new & improved!,default,58,5,2081,411
+67336,6/22/16,2016-06-22T10:41:11.201-07:00,Branch on Fabric,Mobile deep linking available via Twitterâ€™s Fabric,default,9,4,13374,184
+67073,6/22/16,2016-06-22T02:27:00.000-07:00,Monaco Editor,A browser based code editor,default,2,3,90578,81
+67253,6/22/16,2016-06-22T01:34:39.577-07:00,Braineet Team Space,Never lose a team idea again. Prioritize & be more efficient,default,5,6,909,63
+67175,6/21/16,2016-06-21T10:04:58.308-07:00,Slack Message Buttons,Making messages more interactive with buttons,default,60,3,552,1357
+67127,6/21/16,2016-06-21T05:59:49.987-07:00,Lead Flows,All-in-one conversion pop-ups for your website,default,87,6,8738,775
+67092,6/21/16,2016-06-21T01:28:03.951-07:00,Scaphold,GraphQL-as-a-service.,default,8,3,545482,93
+66748,6/17/16,2016-06-17T00:59:16.000-07:00,Apex Ping,Uptime & performance monitoring for websites and APIs,default,38,4,8412,533
+66758,6/17/16,2016-06-17T03:10:39.522-07:00,SlimPay,Payments for subscriptions,default,30,5,4081,314
+66757,6/17/16,2016-06-17T02:36:14.919-07:00,CodeComet,"Version control, collaboration and online coding for devs",default,8,3,79,205
+66601,6/16/16,2016-06-16T07:00:00.000-07:00,Matter 2.0,"Design web apps, pronto! UI Kit crafted in Sketch",default,11,5,18675,380
+66656,6/16/16,2016-06-16T05:38:56.889-07:00,Cintric,Free drag & drop location analytics,default,23,5,6153,371
+66539,6/15/16,2016-06-15T07:19:57.896-07:00,Algolia Places,Intelligent address autocomplete for any <input>,default,35,5,4081,865
+66186,6/14/16,2016-06-14T00:03:00.000-07:00,Chroma,The definitive color picker,default,28,4,89928,443
+66359,6/14/16,2016-06-14T06:48:23.000-07:00,Avenue,Event messaging app for WWDC attendees,default,8,4,42751,69
+66294,6/13/16,2016-06-13T13:01:51.876-07:00,iOS 10 ,"Apple's latest OS puts 3D Touch, Siri, and Emojis everywhere",default,57,3,152305,1450
+66290,6/13/16,2016-06-13T13:01:57.000-07:00,Swift Playgrounds,Learn serious code on your iPad in a seriously fun way,pre_launch,29,5,247207,1086
+66295,6/13/16,2016-06-13T13:11:22.753-07:00,iMessages + Apps,iMessage for Millennialsâ„¢ - share stickers & even more emoji,default,24,5,152305,464
+66275,6/13/16,2016-06-13T10:02:22.847-07:00,Nix,The purely functional package manager,default,1,2,7908,31
+65889,6/10/16,2016-06-10T00:02:00.000-07:00,Dopamine,Hack user engagement with Dopamine's Reinforcement API,default,113,5,2560,709
+65951,6/10/16,2016-06-10T01:24:54.862-07:00,Holmes.js,Fast and easy searching inside a page ,default,11,3,5878,349
+63292,6/9/16,2016-06-09T00:01:00.000-07:00,Copper,Password-free signups. No social network required.,no_longer_online,249,2,166347,2265
+65656,6/9/16,2016-06-09T00:11:01.000-07:00,Flows by Stamplay,Lego for APIs,default,91,5,8827,1117
+65772,6/9/16,2016-06-09T05:20:56.772-07:00,Real Time Users,Add a real time user counter to your site,default,40,4,72708,349
+65844,6/9/16,2016-06-09T10:03:01.156-07:00,Real-time analytics on Twitterâ€™s Fabric mobile app,Your most impactful app metrics available on the go,default,5,4,13374,149
+65793,6/9/16,2016-06-09T06:27:26.537-07:00,Jam API,Parse web pages using CSS query selectors,default,5,4,17811,143
+65579,6/8/16,2016-06-08T07:11:07.741-07:00,Mega Boilerplate,Handcrafted starter projects,default,57,4,294167,701
+65523,6/8/16,2016-06-08T01:09:14.393-07:00,Bontact,"Talk to your site visitors, their way",default,57,4,1880,333
+65576,6/8/16,2016-06-08T07:02:36.033-07:00,Emerge,Enhance virtual and augmented reality with touch!,default,2,5,476,64
+65291,6/7/16,2016-06-07T00:33:02.276-07:00,Forest,Universal admin interface,default,138,6,4081,1348
+65372,6/7/16,2016-06-07T06:16:32.081-07:00,Cabin,React & Redux photo sharing application. Tutorials + Source,default,14,3,498,293
+65331,6/7/16,2016-06-07T03:34:09.000-07:00,Picnic CSS,A beautiful CSS library to kickstart your projects,default,8,4,72708,264
+65238,6/7/16,2016-06-07T00:17:00.000-07:00,Explorer for GitHub,Explore GitHub from your Mac menubar or iPhone,default,7,6,370207,227
+65324,6/7/16,2016-06-07T02:46:09.654-07:00,Zitecraft,Craft a website with social content in 1 minute,default,12,6,42678,108
+64818,6/5/16,2016-06-05T00:02:00.000-07:00,QRTV,Display a custom QR Code or Wi-Fi info on your AppleTV,default,6,8,570340,52
+64710,6/4/16,2016-06-04T00:17:00.000-07:00,Elementor,Advanced drag & drop live page builder for WordPress.,default,74,5,79,843
+64688,6/4/16,2016-06-04T01:17:49.743-07:00,AnyPixels.js,A web-friendly way for anyone to build unusual displays,default,12,4,45330,448
+64764,6/4/16,2016-06-04T00:03:00.000-07:00,React D3 Library,The easiest way to use D3.js in React,default,4,6,571207,328
+64694,6/4/16,2016-06-04T00:34:00.000-07:00,Pills,"A simple, responsive, and tiny CSS grid for humans.",default,0,5,111,283
+64714,6/3/16,2016-06-03T02:29:50.873-07:00,Signup!,Get text messages (SMS) when users sign up to your product,default,72,3,2603,431
+64755,6/3/16,2016-06-03T09:05:41.819-07:00,Fin by Plaid,The online magazine for all things fintech,default,9,5,74,300
+64705,6/3/16,2016-06-03T01:37:17.868-07:00,Sourcegraph for GitHub,Browse and search GitHub like an IDE,default,1,5,6407,87
+64780,6/3/16,2016-06-03T14:16:27.184-07:00,Google Drive Auditor,The Drive Auditor scans all the files and folders & audits,default,2,3,2664,54
+64557,6/2/16,2016-06-02T00:01:01.000-07:00,SyntaxDB,Easily look up programming syntax for multiple languages,default,21,6,240895,455
+64584,6/2/16,2016-06-02T00:35:26.537-07:00,Hund ,Automated status pages for everyone.,default,4,3,79,98
+64485,6/1/16,2016-06-01T02:31:59.943-07:00,Alfred Emoji Pack,Get :100: turned into _Ÿ’¯ everywhere on your Mac,default,32,4,827,446
+64468,6/1/16,2016-06-01T01:03:47.525-07:00,Blur Admin,Angular admin panel front-end framework,default,13,4,72708,391
+64508,6/1/16,2016-06-01T06:48:31.763-07:00,Mapbox Drive,In-car navigation for the future (an SDK for cars),default,1,4,1880,114
+64320,5/31/16,2016-05-31T01:13:38.138-07:00,Project Soli by Google,Your hands are the only interface you'll need,pre_launch,47,7,147217,2205
+64279,5/31/16,2016-05-31T00:21:00.000-07:00,Code-Free Startup,Learn how to build real apps without coding,default,37,5,2081,929
+64293,5/31/16,2016-05-31T00:12:07.730-07:00,Cnverg 1.0,Trello cards + GitHub issues on realtime whiteboard for team,default,29,4,336696,243
+64319,5/31/16,2016-05-31T00:48:27.390-07:00,Greenhouse CI,Hassle-free continuous integration for mobile apps _Ÿ“±,default,17,5,1257,250
+64347,5/31/16,2016-05-31T04:12:32.943-07:00,TinyMCE,Full featured web based JavaScript WYSIWYG HTML Editor,default,14,6,79,158
+64331,5/31/16,2016-05-31T01:54:52.083-07:00,microlight.js,Improves readability of code by highlighting,default,5,4,72708,152
+64325,5/31/16,2016-05-31T01:04:48.475-07:00,Grabify,Create or track URLs,default,7,4,5349,103
+64312,5/31/16,2016-05-31T00:11:24.778-07:00,App42 API Gateway,A solution to securely expose protected resource as APIs,default,2,6,687,46
+64212,5/30/16,2016-05-30T00:51:26.401-07:00,CLI for Toptal Developer Blogs,Command line interface to read developer and designer blogs,default,1,6,188849,36
+64175,5/29/16,2016-05-29T01:43:50.948-07:00,TimeDropper,A gorgeous jQuery time plugin,default,25,2,5602,634
+64198,5/29/16,2016-05-29T02:24:13.392-07:00,Render,React-inspired Swift library for writing UIKit UIs,default,4,2,72708,316
+64123,5/28/16,2016-05-28T00:06:00.000-07:00,night night . ãÅ¿ã‚“ãÅª,Put your website to sleep,default,26,3,349006,306
+64138,5/28/16,2016-05-28T02:55:52.596-07:00,EchoSim,Amazon's Alexa in your browser,default,17,5,32872,274
+64078,5/27/16,2016-05-27T01:45:26.043-07:00,Pinegrow + Atom,The perfect IDE for the web,default,7,6,72708,480
+63967,5/26/16,2016-05-26T02:24:17.000-07:00,Deco IDE,Best IDE for building React Native apps,default,23,4,72708,830
+64002,5/26/16,2016-05-26T07:31:03.712-07:00,ManyChat for Facebook Messenger,Create a Messenger bot to engage your audience. No coding!,default,71,7,18280,943
+63952,5/26/16,2016-05-26T03:12:10.190-07:00,APIfood,Largest API directory,default,13,3,4152,401
+63958,5/26/16,2016-05-26T01:33:45.187-07:00,WebGazer.js,Eye tracking on the browser ,default,14,2,8888,245
+63748,5/25/16,2016-05-25T01:11:09.742-07:00,Pepperoni,React Native app starter kit for Android and iOS,default,3,3,4996,365
+63907,5/25/16,2016-05-25T09:30:04.285-07:00,Twilio Notify,"One API to orchestrate notifications across SMS, push & more",default,8,5,16546,214
+63847,5/25/16,2016-05-25T07:44:03.000-07:00,Sticky: Insight and Audit,See and feel through your users' eyes,default,52,8,17966,460
+63715,5/24/16,2016-05-24T02:16:03.417-07:00,Spectre.css,"A lightweight, responsive and modern CSS framework",default,19,4,72708,313
+63691,5/24/16,2016-05-24T00:07:30.951-07:00,Trace,Visualized Node.js monitoring,default,6,5,8412,187
+63583,5/23/16,2016-05-23T01:26:35.457-07:00,Algorithm Visualizer,Write down your algorithm to be visualized,default,15,3,72708,731
+63571,5/23/16,2016-05-23T02:38:17.827-07:00,Bideo.js,Fullscreen HTML5 background videos for the web,default,8,3,245831,472
+63552,5/23/16,2016-05-23T02:47:39.770-07:00,Family.scss,20 Sass mixins to help you manage :nth-child'ified elements,default,14,4,4996,299
+63336,5/20/16,2016-05-20T01:47:17.156-07:00,Google Awareness API,A sensing platform enabling apps to anticipate and  react.,pre_launch,17,5,284701,576
+63346,5/20/16,2016-05-20T00:41:34.573-07:00,HTTP prompt, Interactive command-line HTTP client,default,13,2,72708,264
+63243,5/20/16,2016-05-20T01:17:10.516-07:00,Noodlio,The marketplace for app development,default,12,7,355303,261
+63360,5/20/16,2016-05-20T03:10:37.000-07:00,Qualified, Developer-friendly coding assessments,default,13,4,642,142
+63308,5/20/16,2016-05-20T01:14:43.248-07:00,Reflow,Automated Git flow process enhancement...,default,1,3,77523,83
+63201,5/19/16,2016-05-19T00:42:33.891-07:00,Push.js,Cross-browser solution for JavaScript desktop notifications,default,9,2,72708,526
+63207,5/19/16,2016-05-19T01:04:31.345-07:00,Mononoki Typeface,Font for programming and code review,default,2,4,147217,263
+63289,5/19/16,2016-05-19T09:20:25.597-07:00,Notion,Increase your team intelligence,default,17,4,18280,266
+63214,5/19/16,2016-05-19T01:57:58.601-07:00,TermHere,â€œOpen Terminal Hereâ€ù shortcut for Finder,default,12,4,198118,206
+63161,5/19/16,2016-05-19T00:01:00.000-07:00,Postlight Mercury,Instant AMP results. Zero development.,default,22,3,118,136
+63030,5/18/16,2016-05-18T00:13:38.893-07:00,React Boilerplate 3.0,"Offline-first, highly scalable foundation for your next app",default,29,3,1166,706
+63031,5/18/16,2016-05-18T00:16:56.000-07:00,Horizon 1.0,"Realtime, open-source backend for JavaScript apps",default,15,4,72708,613
+63034,5/18/16,2016-05-18T00:38:26.131-07:00,Google Mobile Friendly Test,Is your web page mobile-friendly?,default,10,4,16056,494
+63166,5/18/16,2016-05-18T14:38:53.059-07:00,fast-cli,Test your download speed using Netflix's Fast.com,default,12,2,787,88
+63141,5/18/16,2016-05-18T10:49:52.700-07:00,Lin,A localization helper for Xcode,default,0,2,9364,39
+62696,5/16/16,2016-05-16T01:52:44.264-07:00,Medium CLI,A command line Interface for reading Medium stories,default,25,5,37562,407
+62772,5/16/16,2016-05-16T06:14:23.364-07:00,Code Climate for Google Chrome,"Code quality and test coverage, directly in GitHub",default,9,5,3503,266
+62084,5/15/16,2016-05-15T02:44:24.275-07:00,Gitzero,Encrypted Git hosting for teams and enterprises. ,default,3,2,79,117
+62631,5/14/16,2016-05-14T01:34:16.359-07:00,Distorted Button Effects,Highly experimental distortion effects for buttons,default,37,3,72708,889
+62656,5/14/16,2016-05-14T07:16:42.099-07:00,Simple Grid,Responsive & lightweight CSS grid for your website.,default,12,3,79,421
+62614,5/14/16,2016-05-14T00:01:01.000-07:00,Material Colors for iOS,Complete material design color library,default,2,5,436255,291
+62625,5/14/16,2016-05-14T00:02:01.000-07:00,Reindex,GraphQL backend as a service,default,9,2,121699,195
+62599,5/14/16,2016-05-14T01:28:44.276-07:00,SignaKit,Handwritten signature framework for iOS,default,4,5,159186,168
+62587,5/13/16,2016-05-13T08:54:51.000-07:00,HyperDev,A new rapid prototyping tool from Fog Creek,default,13,6,188,252
+62527,5/13/16,2016-05-13T01:29:39.948-07:00,Image Server,Image server toolkit in Go,default,11,3,72708,142
+62356,5/12/16,2016-05-12T00:15:47.881-07:00,Botsify,Create Messenger chatbots without code,default,27,6,78640,528
+62353,5/12/16,2016-05-12T00:16:53.981-07:00,Postmen,Shipping application & API for eCommerce,default,17,5,475420,167
+62230,5/11/16,2016-05-11T00:03:53.000-07:00,Electron 1.0,Build cross platform desktop apps,default,30,3,72708,1664
+62265,5/11/16,2016-05-11T05:04:55.143-07:00,Web Maker,Converts your Chrome new tabs into an offline web playground,default,12,5,273871,131
+62065,5/10/16,2016-05-10T01:38:31.207-07:00,Sublime Tutor,Learn Sublime Text from a tutor who sits inside the editor,default,16,7,25251,607
+62121,5/10/16,2016-05-10T06:05:49.961-07:00,Weld Action Blocks,Build web apps with drag & drop,default,23,5,2603,342
+62174,5/10/16,2016-05-10T09:35:42.660-07:00,Now API,Instant serverless Node.JS deployments with an API.,default,19,4,91017,245
+62088,5/10/16,2016-05-10T01:45:58.619-07:00,Gitsome,Supercharged Git/Shell autocompleter w/ GitHub integration,default,8,2,72708,116
+62083,5/10/16,2016-05-10T01:25:57.863-07:00,SourceClear,Find vulnerabilities in open-source code.,default,2,4,79,94
+62001,5/10/16,2016-05-10T08:29:12.963-07:00,Pollen VC,Fuel your app's growth with early access to your revenues,default,10,9,49994,115
+62154,5/10/16,2016-05-10T08:10:36.257-07:00,AppStretch,Crowdsource and fund new features from your app's users,default,2,5,182,51
+62000,5/9/16,2016-05-09T09:09:43.923-07:00,DNSimple Slack App,Register and manage domains directly from your Slack channel,default,9,3,18179,103
+61900,5/8/16,2016-05-08T01:16:09.874-07:00,shots,Turn the evolution of a website into an animated gif,default,11,5,962,249
+61856,5/7/16,2016-05-07T02:01:58.210-07:00,UTM Builder,Easiest UTM tags builder,default,27,6,2594,326
+61862,5/7/16,2016-05-07T03:03:03.580-07:00,DuckRails,A dev tool to quickly & dynamically mock API endpoints,default,14,4,72708,228
+61868,5/7/16,2016-05-07T06:07:01.067-07:00,Simplified JavaScript Jargon,Community-driven explanation of JavaScript buzz words,default,7,3,69263,192
+61819,5/7/16,2016-05-07T02:20:02.359-07:00,lazygit,Command line utility to automate daily git push operations,default,3,6,278904,63
+61756,5/6/16,2016-05-06T00:45:40.791-07:00,Dummy Card Generator,Generate fake credit card numbers for eCommerce testing,default,36,5,1565,980
+61781,5/6/16,2016-05-06T04:45:23.990-07:00,ProofMe,Content review & approval platform for inspired creatives.,default,8,6,79,153
+61462,5/4/16,2016-05-04T01:30:00.000-07:00,Waybackpack,Download the entire Wayback Machine archive for a given URL,default,7,4,962,410
+61481,5/4/16,2016-05-04T01:18:23.000-07:00,Bookmark,Powerful yet simple drag and drop website builder,default,32,4,9782,348
+61554,5/4/16,2016-05-04T07:36:36.489-07:00,Cloudways,A managed cloud hosting platform for developers & designers,default,24,2,23,114
+61315,5/3/16,2016-05-03T02:58:27.289-07:00,MJML App,The only app that makes responsive email easy,default,24,6,6298,504
+61300,5/3/16,2016-05-03T00:16:42.000-07:00,Crew 2.0,The future of creative work,default,30,6,54,598
+61296,5/3/16,2016-05-03T00:57:17.863-07:00,small,The ultra lightweight code editor for OS X.,default,17,5,48058,309
+61283,5/3/16,2016-05-03T00:29:44.377-07:00,Larder,Bookmarking for developers,default,9,6,90578,66
+61038,5/1/16,2016-05-01T03:17:28.092-07:00,React UIkit Components,Collection of React components using the UIkit CSS framework,default,1,3,72708,324
+61051,5/1/16,2016-05-01T10:27:35.038-07:00,MRN,A Material Design style React Native component library.,default,1,3,14893,192
+61030,5/1/16,2016-05-01T02:52:18.046-07:00,StatusOk,Get notified through Slack/email when your website is down,default,6,4,144891,173
+60817,4/30/16,2016-04-30T01:57:07.601-07:00,NativeBase,Experience the awesomeness of React Native without the pain,default,16,3,93626,360
+60844,4/30/16,2016-04-30T01:52:41.255-07:00,scrape-it,A Node.js scraper for humans.,default,8,3,315868,330
+60932,4/29/16,2016-04-29T08:53:09.207-07:00,Microsoft Flow,Microsoft's version of IFTTT,default,34,6,20345,619
+60890,4/29/16,2016-04-29T01:17:27.000-07:00,CareKit by Apple,Open source software framework for creating health apps,default,7,4,72708,444
+60750,4/28/16,2016-04-28T01:15:19.347-07:00,iOS Stack,A curated collection of iOS resources for app builders,default,45,3,8843,680
+60802,4/28/16,2016-04-28T06:52:33.589-07:00,Botgig,Hire a bot development team,default,18,8,16056,393
+60798,4/28/16,2016-04-28T06:35:02.000-07:00,Sqreen,The protection module for your web applications,default,13,6,4081,293
+60703,4/28/16,2016-04-28T02:48:00.000-07:00,OpenAI Gym,Open source interface to reinforcement learning tasks,default,2,3,90578,210
+60791,4/28/16,2016-04-28T06:01:38.614-07:00,StartupThreads Zap,Swag marketing automation: Send tshirts from 500+ apps,default,17,6,534857,139
+60760,4/28/16,2016-04-28T02:41:56.196-07:00,Coati,A cross-platform source explorer for C/C++,default,8,7,533664,36
+60583,4/27/16,2016-04-27T03:01:01.000-07:00,Adblock Analytics 2.0,Gain insights into visitor ad blocking activity,default,9,5,524985,73
+60462,4/26/16,2016-04-26T02:41:49.000-07:00,Chart.js 2.0,"Simple, clean & engaging charts for designers & developers.",default,30,5,79,1315
+60433,4/26/16,2016-04-26T00:17:58.581-07:00,MapJam for Enterprise Developers,Do more with maps - Pay a lot less,default,31,5,7293,305
+60473,4/26/16,2016-04-26T04:59:44.041-07:00,Sympli 1.0,"Design handoff & collaboration for PS, Sketch, AS & Xcode",default,19,5,249367,256
+60429,4/26/16,2016-04-26T00:13:49.807-07:00,Supergiant.io,A datacenter management system built on Kubernetes,default,4,2,12564,67
+60260,4/25/16,2016-04-25T00:36:14.746-07:00,Palette,A no fuss color palette generator Chrome Extension.,default,3,4,458839,202
+60316,4/25/16,2016-04-25T06:18:16.087-07:00,Gradient Zoo,Version and share your trained neural network models,default,1,3,72708,36
+60152,4/23/16,2016-04-23T00:55:38.323-07:00,glot.io, An open source pastebin with runnable snippets and API,default,13,4,72708,616
+60048,4/22/16,2016-04-22T02:09:10.214-07:00,Colornet,Neural Network to colorize grayscale images,default,21,4,72708,647
+59829,4/21/16,2016-04-21T02:38:00.000-07:00,Work Pall,"Community approved contract work, projects and jobs",default,4,4,180040,79
+59728,4/20/16,2016-04-20T01:00:00.000-07:00,FlexboxPatterns,Build awesome user interfaces with CSS flexbox,default,39,3,72708,1070
+59583,4/20/16,2016-04-20T09:30:51.174-07:00,Turntable.js,A responsive JQuery slider,default,10,3,92762,249
+59600,4/20/16,2016-04-20T00:01:00.000-07:00,Storybooks.io,UI code reviewing done right,pre_launch,10,3,3737,221
+59737,4/20/16,2016-04-20T01:41:34.126-07:00,Runstatus,"Build your app, not a status page",default,11,3,2603,162
+59718,4/20/16,2016-04-20T00:43:29.710-07:00,GitHub Reviews,A place for reviews of popular open source projects,default,13,6,90578,96
+59814,4/20/16,2016-04-20T08:32:22.911-07:00,Earl,Expand every link in Slack. Even links that require a login.,default,4,3,18280,56
+59547,4/19/16,2016-04-19T02:29:39.007-07:00,Feature Flags for Mobile Apps,Enable or disable mobile features at a momentâ€™s notice,default,7,6,4808,98
+59607,4/19/16,2016-04-19T11:19:38.733-07:00,Bugfender,"Cloud logging for your apps, not only crashes matter",default,3,4,194003,45
+59525,4/19/16,2016-04-19T00:04:23.754-07:00,Nuklear,A small ANSI C gui toolkit,default,1,3,72708,37
+59383,4/18/16,2016-04-18T00:05:12.542-07:00,DeckHub,A TweetDeck style desktop client for GitHub.,default,26,6,5878,416
+59276,4/17/16,2016-04-17T00:01:00.000-07:00,Material Colors,A tool for material design colors,default,5,3,436255,242
+57449,4/17/16,2016-04-17T01:23:00.000-07:00,Favorr,A place for app developers to give and receive reviews.,default,31,4,17368,166
+59317,4/17/16,2016-04-17T00:59:41.273-07:00,Haxor News,A Hacker News command line interface,default,3,3,67838,86
+59212,4/16/16,2016-04-16T00:52:24.738-07:00,Material Stickers,A general purpose Material Design UI template toolkit.,default,1,3,436255,111
+59244,4/16/16,2016-04-16T00:36:37.857-07:00,MarkupKit,A framework for creating native iOS applications ,default,4,5,72708,102
+59102,4/15/16,2016-04-15T00:10:59.519-07:00,Api.ai for Facebook Messenger,The easiest way to build an FB bot. No coding required!,default,59,7,67920,1973
+59091,4/15/16,2016-04-15T00:27:33.000-07:00,Visual Studio Code 1.0,Microsoft's cross-platform text editor for developers,default,25,7,1166,564
+59194,4/15/16,2016-04-15T09:41:58.964-07:00,Uber Ride Request Widget,Embed the Uber experience in your app in a few lines code,default,12,3,18280,180
+58951,4/14/16,2016-04-14T08:00:00.000-07:00,Kite,Internet-connected programming,default,247,4,90819,2337
+58838,4/13/16,2016-04-13T03:05:55.494-07:00,Webflow Flexbox UI Builder,"Build flexible, responsive layouts â€” without writing code",default,25,5,72708,982
+58630,4/12/16,2016-04-12T00:01:43.218-07:00,Stashes.io,Start your own curated directory,default,46,5,16056,458
+58423,4/10/16,2016-04-10T01:32:50.384-07:00,Booleans.io,"Booleans as a service. Create, read, update & delete boolean",default,25,5,96219,229
+58383,4/9/16,2016-04-09T01:17:23.929-07:00,You-Get,Command-line utility to download media contents from the web,default,10,5,72708,303
+56279,4/9/16,2016-04-09T01:02:52.520-07:00,Google Stackdriver Error Reporting,Aggregates and displays errors produced by cloud services ,default,8,7,361506,57
+58196,4/7/16,2016-04-07T10:20:14.113-07:00,Giphy Capture,Turn anything on your screen into a GIF!,default,29,6,333541,591
+58016,4/7/16,2016-04-07T06:00:00.000-07:00,Segment Sources,"Load CRM, billing, and other cloud data to your Warehouse",default,9,5,10748,297
+58116,4/7/16,2016-04-07T01:02:34.013-07:00,Colorize Swift,Terminal string styling for Swift,default,0,3,72708,47
+57886,4/6/16,2016-04-06T01:17:10.400-07:00,GitLab Pages,"Websites for your GitLab projects, groups, or user account",default,10,3,137270,479
+57793,4/5/16,2016-04-05T05:47:38.448-07:00,Particle Electron,Cellular IoT development board with a simple data plan,default,5,4,11868,214
+57797,4/5/16,2016-04-05T06:05:56.479-07:00,imgix Page Weight Tool,Measure site resources and learn how to improve load time,default,20,3,1132,165
+57726,4/5/16,2016-04-05T00:06:10.654-07:00,CleverTap 2.0, Integrates app analytics and mobile engagement,default,79,10,687,504
+57097,4/4/16,2016-04-04T03:21:53.640-07:00,Soccer CLI,Soccer scores for hackers. Command-line interface for â__ï¸è,default,25,6,96901,166
+57602,4/4/16,2016-04-04T07:11:04.003-07:00,Docbase,Render your markdown documentation into beautiful sites,default,5,6,46043,215
+57160,4/3/16,2016-04-03T02:06:35.432-07:00,React Storybook,Develop and design React components without an app. ,default,10,3,3737,449
+57521,4/3/16,2016-04-03T04:38:44.386-07:00,Estimatr,Build accurate software estimates.,default,12,2,79,219
+56919,3/30/16,2016-03-30T01:06:03.160-07:00,React Native Desktop,Build OS X desktop apps using React Native,default,18,3,72708,1145
+56932,3/30/16,2016-03-30T03:30:46.234-07:00,Dear Apple,A letter generator & gallery for expedited App Store reviews,default,37,7,2338,353
+56893,3/30/16,2016-03-30T02:13:01.000-07:00,Slides Framework 2.0,We make it impossible to create ugly websites,default,19,5,20265,258
+56896,3/30/16,2016-03-30T01:11:20.503-07:00,Githunt,Replace the new tab with trending Github projects,default,8,4,496305,214
+56895,3/30/16,2016-03-30T00:01:00.000-07:00,DataRole API,Easy access to the stream of home improvement history,default,21,3,946,70
+56915,3/30/16,2016-03-30T07:18:48.615-07:00,Parse-to-Backand Migration Tool,One-click migration tool,default,2,2,342816,94
+56779,3/29/16,2016-03-29T05:50:04.677-07:00,Koncept,"Usability testing, interactive prototypes & metrics",default,14,5,1257,125
+55011,3/27/16,2016-03-27T00:01:00.000-07:00,Searchkit,UI components for Elasticsearch,default,7,6,405036,416
+56061,3/27/16,2016-03-27T00:01:00.000-07:00,Obsidian,The open-source foundation your product needs to succeed.,default,21,6,162988,136
+56082,3/26/16,2016-03-26T04:45:04.366-07:00,AppsBuilder,The power to design a professional app at your fingertips,default,12,3,227453,256
+56365,3/25/16,2016-03-25T00:54:47.474-07:00,AppLandr 2.0,Create beautiful landing pages for your mobile apps in secs,default,66,3,79,550
+55939,3/24/16,2016-03-24T00:01:00.000-07:00,AppFollow,Track app activities in App Store & Google Play using Slack,default,55,9,16056,560
+56280,3/24/16,2016-03-24T07:10:48.561-07:00,Tinder for X Starter,Super awesome starter for a Tinder for X App w/ Ionic,default,12,2,78744,131
+56301,3/24/16,2016-03-24T09:12:38.478-07:00,Citus,Turn Postgres into a scale-out distributed database,default,12,4,13405,97
+56102,3/23/16,2016-03-23T01:20:36.192-07:00,Foundation for Emails 2,Create responsive HTML emails that work on any device,default,23,6,16056,1247
+56104,3/23/16,2016-03-23T00:41:10.000-07:00,DraftJS Plugins,"Slack-like emojis, FB-like mentions & stickers for web apps",default,22,7,1166,408
+56165,3/23/16,2016-03-23T07:42:01.461-07:00,PandaScore,The first e-sport statistics API,default,7,5,248534,93
+56121,3/23/16,2016-03-23T05:25:10.853-07:00,Browser Specs,Tests your browser specs on screen and email to support desk,default,3,3,237288,34
+56012,3/22/16,2016-03-22T05:03:47.495-07:00,Tapglue Elements,Turn your app into a social network with one line of code ,default,29,4,10748,275
+55834,3/21/16,2016-03-21T00:01:12.000-07:00,UpLabs,"The best material design, iOS & web resources, every day",default,30,6,1693,1404
+55912,3/21/16,2016-03-21T09:40:30.265-07:00,Opsee,Continuously test your services and deploy with confidence,default,3,3,7970,154
+55327,3/19/16,2016-03-19T00:05:00.000-07:00,FreshDesign.io,A curation of beautiful websites and designer resources,default,9,4,321464,647
+55635,3/18/16,2016-03-18T01:50:05.466-07:00,Crawly,Never write another web scraper,default,37,6,2594,1240
+55351,3/16/16,2016-03-16T00:45:18.853-07:00,DevSpace,Tweetdeck for GitHub,default,30,3,72708,370
+55207,3/15/16,2016-03-15T01:22:44.605-07:00,FeathersJS,"A truly open source, community driven Meteor alternative",default,22,5,10773,408
+54797,3/15/16,2016-03-15T00:01:00.000-07:00,devRant,Connect with fellow developers over fun rants about tech,default,15,6,136511,116
+55122,3/14/16,2016-03-14T09:34:43.468-07:00,Buglife,Seriously awesome bug reporting for iOS apps,default,12,4,13374,278
+54987,3/13/16,2016-03-13T04:50:33.390-07:00,Plugin Table,Periodic table of all the most popular WordPress plugins,default,5,4,72708,201
+54693,3/10/16,2016-03-10T03:42:50.610-08:00,Odd Networks,World's first open source OTT platform (Netflix in a box),default,44,5,16056,307
+54733,3/10/16,2016-03-10T08:04:55.594-08:00,BackView by Elasticode,Re-engage app users right before they leave,default,24,9,36143,145
+54742,3/10/16,2016-03-10T08:40:23.463-08:00,Fieldbook Codelets,"Host snippets of code, integrated with Fieldbook ",default,5,5,8196,89
+53854,3/9/16,2016-03-09T00:05:00.000-08:00,"Aimtell: Safari, Firefox, and Chrome Web Push Notifications",Re-engage vistitors w/ targeted web push notifications,default,4,6,374071,46
+54370,3/8/16,2016-03-08T06:15:15.000-08:00,Algolia Community,Discover Algolia & build great search with our community,default,12,5,4081,262
+54364,3/8/16,2016-03-08T05:43:04.349-08:00,Usage Analytics in appFigures,"Track usage for your app along side downloads, ranks & more",default,5,5,1195,61
+54162,3/7/16,2016-03-07T03:44:58.379-08:00,StatusPage Generator,Host your status page on GitHub,default,23,6,58115,361
+54200,3/7/16,2016-03-07T07:13:47.783-08:00,Every Developer,Evaluate an API before you code,default,7,4,9771,147
+54017,3/5/16,2016-03-05T01:01:26.823-08:00,Branches,"App for managing issues for your GitHub, GitLab or Bitbucket",default,9,4,77523,142
+53921,3/4/16,2016-03-04T00:02:00.000-08:00,Emojicode,An emoji based programming language. ,default,14,3,35090,350
+53697,3/2/16,2016-03-02T05:05:56.022-08:00,Marker 2.0,"Send badass screenshots to Slack, Trello, Github and more",default,56,8,2081,616
+53760,3/2/16,2016-03-02T11:11:58.560-08:00,dejavu,"A modern, open-source data browser for Elasticsearch.",default,5,4,46043,125
+53591,3/1/16,2016-03-01T11:24:35.272-08:00,Free React.js Fundamentals Course,A free course that teaches you the fundamentals of React.js.,default,5,3,17538,226
+53325,2/29/16,2016-02-29T03:07:38.873-08:00,Mapme,Medium for maps,default,132,6,1880,1271
+53383,2/29/16,2016-02-29T10:12:37.234-08:00,Ink UI Kit,Ultimate pack of 200+ premium iOS templates,default,10,6,226188,295
+53352,2/29/16,2016-02-29T08:47:33.476-08:00,Bar.foo,Stories & challenges from software engineers at Google,default,4,4,90578,276
+53238,2/28/16,2016-02-28T10:31:15.634-08:00,Assembly HTML,With self deployable drag and drop website builder,default,25,6,129329,620
+52794,2/24/16,2016-02-24T06:30:19.000-08:00,Stripe Atlas,A new way to start an internet business anywhere,pre_launch,122,4,64009,3355
+52529,2/23/16,2016-02-23T00:33:00.000-08:00,quickMockup,Simple drag and drop mockups,default,12,4,232526,263
+52581,2/23/16,2016-02-23T00:14:21.998-08:00,BuddyBuild for Android,"Build, deploy & gather feedback",default,30,5,676,227
+52585,2/23/16,2016-02-23T00:32:11.317-08:00,Voog,Simple to use tool for creating multi-lingual websites.,default,13,4,79,302
+52472,2/23/16,2016-02-23T01:02:00.000-08:00,Codebeat,Automated code review for Ruby and Go applications,default,6,3,90578,154
+52443,2/22/16,2016-02-22T06:24:46.991-08:00,LOL Colors,Curated color palette inspiration.,default,96,4,129126,1350
+52406,2/22/16,2016-02-22T00:52:50.215-08:00,Portia,Scrape websites visually,default,45,3,187,766
+52088,2/20/16,2016-02-20T08:28:13.857-08:00,Codeology,Open-source algorithm that visualizes GitHub projects,default,14,5,41320,468
+51827,2/18/16,2016-02-18T00:02:00.000-08:00,UI Patterns,Level up with interactive mobile design patterns,default,13,6,146395,677
+46025,2/18/16,2016-02-18T02:00:00.000-08:00,Elasticode,"Build, deploy & personalize native mobile experience",default,58,11,44852,499
+51820,2/17/16,2016-02-17T02:13:02.814-08:00,Wavecell,"Integrate SMS, voice, chat & video calling into your apps.",default,6,5,79,87
+51632,2/16/16,2016-02-16T00:16:53.152-08:00,Brand.ai,"Create a style guide & integrate with Sketch, Slack, & Gulp",default,36,8,3,571
+51687,2/16/16,2016-02-16T09:09:41.825-08:00,StopLight,"Mock, document, and test your way to API nirvana. ",default,11,6,137764,173
+50813,2/15/16,2016-02-15T00:22:00.000-08:00,Dorkoy,Build beautiful and reliable websites in minutes.,default,52,5,315213,135
+51471,2/15/16,2016-02-15T03:22:00.000-08:00,Vorpal," Build mature, immersive command-line apps in JavaScript",default,3,4,72708,106
+51544,2/15/16,2016-02-15T08:26:17.369-08:00,GitMonitor,Custom rules for Github repos and violation monitoring,default,2,6,10713,61
+51215,2/12/16,2016-02-12T01:39:40.363-08:00,Koder,"Hire top developers, on-demand",default,32,5,79,350
+50565,2/8/16,2016-02-08T00:23:35.672-08:00,Slack Message Builder,Preview the format of the messages produced by your bot,default,6,4,72708,111
+50521,2/7/16,2016-02-07T05:58:28.158-08:00,GrapeJS, Open Source tool for building web templates without coding.,default,3,4,79,236
+50327,2/5/16,2016-02-05T00:29:36.000-08:00,Flow XO Slackbot,Build bots with no code and your favorite web apps!,default,51,3,962,639
+50295,2/5/16,2016-02-05T01:52:14.169-08:00,Heisenberg Ipsum,Breaking Bad ipsum ,default,17,3,167681,192
+50200,2/4/16,2016-02-04T06:30:36.399-08:00,mjml.,The first framework to write responsive emails easily,default,46,7,4152,1196
+49849,2/2/16,2016-02-02T03:09:53.214-08:00,Workbot for Slack,Work your apps from Slack,default,50,5,72708,713
+45210,2/2/16,2016-02-02T01:04:15.720-08:00,Hashnode,A network of software developers to learn and grow,default,37,5,157688,542
+49743,2/2/16,2016-02-02T00:37:00.000-08:00,API Plug,Hassle-free API generation & management,default,17,5,234065,308
+46922,2/2/16,2016-02-02T00:45:30.715-08:00,Tilda Publishing,Build beautiful websites and tell stories without any code,default,89,4,162795,1512
+49835,2/2/16,2016-02-02T07:40:42.538-08:00,Firebase + Batch,"Push notifications for Firebase, for the post-Parse world.",default,9,3,16585,185
+49845,2/2/16,2016-02-02T02:13:45.514-08:00,zipBoard,Real-time visual feedback on live products.,default,16,7,79,191
+49867,2/2/16,2016-02-02T05:30:46.062-08:00,uCrop,Android library that allows you to clip images.,default,18,5,361919,115
+49700,2/1/16,2016-02-01T04:52:50.803-08:00,Multi-Step Zaps by Zapier,The easiest way to build powerful workflows with your apps,default,55,4,42,1153
+49659,2/1/16,2016-02-01T07:00:00.000-08:00,Instabug 3.0,In-app conversations and bug reporting for mobile apps,default,48,6,68254,663
+49570,1/31/16,2016-01-31T01:50:34.000-08:00,Chrome Commands,Do more with Chrome using commands,default,29,5,247207,155
+49510,1/30/16,2016-01-30T06:37:37.656-08:00,Hackathon Starter,A boilerplate for Node.js web applications.,default,24,3,39066,579
+16480,1/30/16,2016-01-30T06:40:00.000-08:00,Sentry,Real-time crash reporting for the web and apps,default,16,2,47232,179
+49359,1/29/16,2016-01-29T01:31:22.971-08:00,Parse Server,The open source Parse Server Node.js application.,default,28,4,44852,311
+49397,1/29/16,2016-01-29T00:44:23.141-08:00,Parseport,Migrate from Parse without a new binary or changing code,default,11,3,9202,112
+49329,1/29/16,2016-01-29T00:12:00.000-08:00,Squash Reports,Keep your team in touch every day,default,5,3,15592,101
+49047,1/28/16,2016-01-28T00:41:00.000-08:00,Entrepreneur Tools,A collection of tools and resources for startups,default,61,11,72390,1222
+49042,1/28/16,2016-01-28T00:11:00.000-08:00,Multicolour,Stand a full featured REST API up in less than 5 minutes.,default,9,5,360506,141
+48994,1/27/16,2016-01-27T02:04:09.823-08:00,Responsive Image Breakpoint Generator,Turn one image into the ideal set of per-device images,default,6,4,107356,393
+48980,1/27/16,2016-01-27T00:30:00.000-08:00,Commerce.js by Chec,Full-stack eCommerce API for developers & designers,default,30,7,7293,393
+48838,1/27/16,2016-01-27T00:03:00.000-08:00,Analyzo,The best tools for your startup,default,21,6,232526,257
+48996,1/27/16,2016-01-27T01:39:54.587-08:00,Whiteboard,Simply write beautiful API documentation.,default,7,4,228515,116
+48783,1/26/16,2016-01-26T00:29:48.131-08:00,Castle,The easiest way to protect your users from getting hacked,default,34,4,90819,816
+48670,1/25/16,2016-01-25T06:37:36.831-08:00,Loud Links,A simple tiny Javascript library to add interaction sounds,default,11,6,173198,117
+47991,1/24/16,2016-01-24T09:17:51.231-08:00,2016DoneRight,"Learn to code and design Tesla, Pinterest, Instagram,Twitter",no_longer_online,13,4,962,171
+48003,1/20/16,2016-01-20T01:10:16.780-08:00,Siftery,"Share products you use at work,explore what others are using",default,202,13,79,2084
+48089,1/20/16,2016-01-20T10:26:28.698-08:00,Nativeifier,Turn any webpage into a native app,default,17,5,2536,303
+48017,1/20/16,2016-01-20T03:21:06.124-08:00,Pastery,The sweetest pastebin in the world.,default,9,3,1986,85
+48007,1/20/16,2016-01-20T01:49:35.812-08:00,NetBeez,Know when your network is down!,default,2,4,13212,105
+47984,1/20/16,2016-01-20T03:03:50.923-08:00,Reekoh,The easiest way to connect the IoT with enterprise SaaS,default,8,4,270800,57
+47724,1/19/16,2016-01-19T00:26:00.000-08:00,Creo,Design & Development process into a single easy to use app,default,33,5,16056,402
+47593,1/18/16,2016-01-18T07:28:31.662-08:00,Bluesnap,Global payment processing and conversion optimization.,default,7,6,10426,37
+47556,1/16/16,2016-01-16T05:36:22.891-08:00,Codehalf,Write code every day,default,22,4,16056,318
+47299,1/16/16,2016-01-16T00:12:00.000-08:00,brand-colors,"A color collection available in sass, less, stylus and css",default,6,6,234033,234
+46867,1/15/16,2016-01-15T04:15:37.811-08:00,CodeUpStart,Learn to code by building real apps from zero to launch,default,23,10,51494,925
+46885,1/12/16,2016-01-12T00:35:43.444-08:00,Backand,Powerful Backend-as-a-Service for AngularJS and Ionic,default,27,3,1880,554
+46893,1/12/16,2016-01-12T01:01:25.311-08:00,Sendbird,The simplest chat & messaging solution for your app,default,46,8,79,663
+46988,1/12/16,2016-01-12T09:05:16.466-08:00,HackerRank Jobs,Developer jobs. Guaranteed reply from companies in 5 days.,default,28,5,9,316
+46716,1/11/16,2016-01-11T08:29:20.022-08:00,Cindr,Create a beautiful yet simple single page website for free.,default,18,4,370257,249
+46592,1/10/16,2016-01-10T00:17:00.000-08:00,Get Regex,Get a custom regex expression made within 1 hour,no_longer_online,15,3,962,176
+46437,1/8/16,2016-01-08T03:08:35.022-08:00,Theme Cards,Discover the best free responsive themes & templates,default,4,7,79,343
+46044,1/6/16,2016-01-06T00:05:00.000-08:00,jQuery Cards,Curated repository of over 1000 quality jQuery plugins,default,20,3,56690,644
+46027,1/5/16,2016-01-05T01:09:27.916-08:00,BitBar,Put the output from any script in your Mac OS X Menu Bar,default,6,4,187,237
+46062,1/5/16,2016-01-05T06:49:10.173-08:00,LiveStyle,"A real-time edit tool for CSS, LESS and SCSS.",default,11,6,329,169
+45733,1/1/16,2016-01-01T00:02:49.138-08:00,2016 Maker Challenge,Make more stuff this year,default,40,5,58,522
+45610,12/30/15,2015-12-30T00:37:11.522-08:00,Appolo,Static app portfolio for developers,default,12,4,46056,226
+45599,12/30/15,2015-12-30T00:15:51.043-08:00,Json2Html,App to convert JSON into human friendly tabular format. ,default,18,4,294870,181
+45516,12/29/15,2015-12-29T01:06:21.277-08:00,Siphon,Quickly build React native apps without XCode,default,23,5,48105,448
+45477,12/29/15,2015-12-29T03:11:08.185-08:00,Syte,"Beautiful, simplistic, web pages for free",default,2,4,232526,190
+45460,12/28/15,2015-12-28T05:29:21.882-08:00,TLDR pages,Simplified and community-driven man pages,default,7,3,11207,232
+45340,12/25/15,2015-12-25T02:33:11.650-08:00,Mockup Catalog,Discover & download curated freebies,default,0,5,79,235
+45293,12/24/15,2015-12-24T01:43:35.439-08:00,Doc Search,The easiest way to add search to your documentation,default,11,4,4081,456
+45147,12/24/15,2015-12-24T00:01:00.000-08:00,WebShell,Bundle web app to OS X app without coding,default,17,3,42585,455
+45103,12/23/15,2015-12-23T02:21:15.220-08:00,Source Lair,SourceLair lets people develop software in their browsers.,default,12,3,241448,254
+45092,12/22/15,2015-12-22T02:56:42.611-08:00,Saber 2.0,Saber is a Heroku client for iOS,default,6,4,75546,110
+44976,12/21/15,2015-12-21T07:31:32.102-08:00,DevStash (Beta),"Product Hunt for CSCI news, github repos, and side-projects",default,5,5,281578,72
+44875,12/20/15,2015-12-20T00:49:00.000-08:00,Stockfighter,Programming challenges for programmers of all levels,default,13,3,73323,235
+44951,12/20/15,2015-12-20T08:29:38.963-08:00,Odoo Website,Open source website builder,default,5,4,16056,176
+44763,12/19/15,2015-12-19T01:30:00.000-08:00,Stack Overflow Jobs,A job board for developers powered by Stack Overflow,default,9,4,20088,223
+44902,12/19/15,2015-12-19T07:39:13.710-08:00,Juntoo,Add notes to any element on any web page,default,13,5,16056,143
+44708,12/17/15,2015-12-17T07:20:47.684-08:00,hardware_directory,All the resources you need to build your Hardware startup,default,7,4,4081,234
+44738,12/17/15,2015-12-17T09:04:45.889-08:00,Fieldbook API,"A database with an API, as simple as a spreadsheet",default,2,5,8196,186
+44504,12/16/15,2015-12-16T00:23:01.861-08:00,Slack App Directory,Your go-to for finding apps that work with Slack,default,34,5,552,1183
+44469,12/16/15,2015-12-16T01:25:33.209-08:00,Botkit,Building blocks for building Slack bots,default,10,6,79904,501
+44371,12/15/15,2015-12-15T04:16:36.076-08:00,Webflow 3D Transforms,"Build 3D interactions visually, without writing any code",default,23,5,72708,672
+44347,12/15/15,2015-12-15T00:09:30.000-08:00,Startup Hand,Yelp for startup tools and resources,no_longer_online,17,7,962,374
+44307,12/15/15,2015-12-15T01:45:21.000-08:00,Persona,A new personal publishing platform from the makers of Cargo,default,21,4,18280,231
+44253,12/15/15,2015-12-15T00:12:00.000-08:00,WD Stack,Curated resources for frontend designers/developers,default,10,4,16056,237
+43929,12/13/15,2015-12-13T00:23:00.000-08:00,UX Mill,Articles and resources for designers and developers.,default,12,7,159922,347
+43347,12/12/15,2015-12-12T05:23:11.000-08:00,Monitor v2,Alert your entire team when your site goes offline.,default,9,4,2478,216
+43775,12/11/15,2015-12-11T00:01:00.000-08:00,Data Warehouses by Segment,All your analytics in a Redshift or Postgres DW in minutes,default,8,4,9202,205
+43691,12/10/15,2015-12-10T03:12:57.623-08:00,Enki,The 5-minute daily workout for your dev skills,default,72,4,16056,1205
+43704,12/10/15,2015-12-10T04:53:09.395-08:00,Jell,Keep your team up to date without another meeting,default,28,9,3938,268
+43670,12/10/15,2015-12-10T05:04:57.488-08:00,QuantifiedCode,Automated code repair for Python,default,6,4,246293,117
+43660,12/10/15,2015-12-10T09:07:12.958-08:00,Orson,Create responsive websites with Orson Bot,default,5,5,5066,117
+43735,12/10/15,2015-12-10T07:57:09.000-08:00,appFigures Review Cards,Easily share your app reviews with anyone,default,4,9,1195,62
+43435,12/8/15,2015-12-08T06:35:35.419-08:00,Bowtie,"User management, payments and admin control for static sites",default,13,7,4366,206
+41912,12/7/15,2015-12-07T00:04:00.000-08:00,HTML to Wordpress,Convert HTML website to WordPress theme in seconds,default,65,9,232526,1231
+43310,12/7/15,2015-12-07T08:43:05.398-08:00,EasyRedir,Easily manage URL redirects for your business,default,6,5,89285,107
+42979,12/4/15,2015-12-04T05:45:22.000-08:00,Kong,Free and simple way to create a professional online store,default,13,4,352554,283
+42868,12/2/15,2015-12-02T10:06:37.144-08:00,Creo,App development reinvented,pre_launch,12,4,18280,324
+42631,12/1/15,2015-12-01T04:06:50.199-08:00,CodeCode Ninja,Flashcards for programmers,default,16,5,1880,222
+42260,11/26/15,2015-11-26T10:46:00.501-08:00,Snippy,"Copy & paste code snippets, real quick",default,4,3,163211,106
+42218,11/26/15,2015-11-26T01:57:12.298-08:00,appfigures for Apple TV,Track the sales & rank of apple TV apps,default,5,5,962,53
+41940,11/24/15,2015-11-24T00:04:28.166-08:00,Booking.js by Timekit,Make a beautiful embeddable  booking widget in minutes.,default,40,6,579466,1213
+41882,11/24/15,2015-11-24T00:02:00.000-08:00,Android Studio 2.0,The official IDE for Android application development,default,6,5,18280,436
+40969,11/23/15,2015-11-23T08:02:10.282-08:00,MailDeveloper,Advanced editor for responsive HTML emails,default,12,4,313172,322
